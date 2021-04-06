@@ -1,0 +1,23 @@
+{
+  "name": "citizen_agenda",
+  "version": "0.0.0",
+  "description": "Citizen agenda project",
+  "main": "src/app.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:\\"
+  },
+  "keywords": [
+    "citizen_agenda",
+    "Service"
+  ],
+  "author": "Luis Gabriel Moreno Sandoval",
+  "license": "UNLICENSED"
+}

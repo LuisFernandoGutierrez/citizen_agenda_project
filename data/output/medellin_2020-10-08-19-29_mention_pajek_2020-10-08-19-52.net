@@ -1,0 +1,2559 @@
+*vertices 1217
+1 luisfer81567047 0.0 0.0 ellipse level 3 polarity 0
+2 alvaroforero 0.0 0.0 ellipse level 3 polarity 1
+3 fdbedout 0.0 0.0 ellipse level 3 polarity 1
+4 pcontexto 0.0 0.0 ellipse level 3 polarity 1
+5 SamuelHoyosM 0.0 0.0 ellipse level 3 polarity 0
+6 AlianzaCAOBA 0.0 0.0 ellipse level 3 polarity 1
+7 JoseFMolano 0.0 0.0 ellipse level 3 polarity 1
+8 JairoTorregrose 0.0 0.0 ellipse level 3 polarity 1
+9 gabrielmoreno10 0.0 0.0 ellipse level 3 polarity 0
+10 ClaudiaLopez 0.0 0.0 ellipse level 3 polarity 1
+11 QuinteroCalle 0.0 0.0 ellipse level 3 polarity 0
+12 mabel_lopez5 0.0 0.0 ellipse level 3 polarity 1
+13 Telemedellin 0.0 0.0 ellipse level 3 polarity 1
+14 lumoncolombia 0.0 0.0 ellipse level 3 polarity 1
+15 Clauslagartija 0.0 0.0 ellipse level 3 polarity 1
+16 DCoronell 0.0 0.0 ellipse level 3 polarity 0
+17 AlvaroUribeVel 0.0 0.0 ellipse level 3 polarity 1
+18 aldecharco 0.0 0.0 ellipse level 3 polarity 1
+19 RevistaSemana 0.0 0.0 ellipse level 3 polarity 1
+20 ghitis 0.0 0.0 ellipse level 3 polarity 1
+21 VickyDavilaH 0.0 0.0 ellipse level 3 polarity 1
+22 luisoc3515 0.0 0.0 ellipse level 3 polarity 1
+23 sicsuper 0.0 0.0 ellipse level 3 polarity 1
+24 sepln 0.0 0.0 ellipse level 3 polarity 1
+25 dona_pily 0.0 0.0 ellipse level 3 polarity 1
+26 clef_initiative 0.0 0.0 ellipse level 3 polarity 0
+27 intiasprilla 0.0 0.0 ellipse level 3 polarity 1
+28 MirandaBogota 0.0 0.0 ellipse level 3 polarity 0
+29 ElHectorHH 0.0 0.0 ellipse level 3 polarity 1
+30 CienciaSumerce 0.0 0.0 ellipse level 3 polarity 1
+31 mariapcorrea 0.0 0.0 ellipse level 3 polarity 1
+32 elespectador 0.0 0.0 ellipse level 3 polarity 1
+33 SGAITANPRENSA 0.0 0.0 ellipse level 3 polarity 1
+34 BruceMacMaster 0.0 0.0 ellipse level 3 polarity 1
+35 gusgomez1701 0.0 0.0 ellipse level 3 polarity 0
+36 tschfflr 0.0 0.0 ellipse level 3 polarity 0
+37 erikras 0.0 0.0 ellipse level 3 polarity 0
+38 CombarizaGerman 0.0 0.0 ellipse level 3 polarity 0
+39 yannbasset 0.0 0.0 ellipse level 3 polarity 1
+40 Bogota 0.0 0.0 ellipse level 3 polarity 1
+41 jsanchezcristo 0.0 0.0 ellipse level 3 polarity 0
+42 Diego_Molano 0.0 0.0 ellipse level 3 polarity 1
+43 CGurisattiNTN24 0.0 0.0 ellipse level 3 polarity 1
+44 LaNocheNTN24 0.0 0.0 ellipse level 3 polarity 1
+45 OafToBark23 0.0 0.0 ellipse level 3 polarity 1
+46 YsamarMeza 0.0 0.0 ellipse level 3 polarity 1
+47 torrenegra 0.0 0.0 ellipse level 3 polarity 1
+48 PHDcomics 0.0 0.0 ellipse level 3 polarity 0
+49 acnavascalixto 0.0 0.0 ellipse level 3 polarity 1
+50 nahunandres 0.0 0.0 ellipse level 3 polarity 1
+51 Juanpapajaro 0.0 0.0 ellipse level 3 polarity 0
+52 GodColombiano 0.0 0.0 ellipse level 3 polarity 1
+53 ZihangDai 0.0 0.0 ellipse level 3 polarity 0
+54 MincienciasCo 0.0 0.0 ellipse level 3 polarity 1
+55 aclmeeting 0.0 0.0 ellipse level 3 polarity 0
+56 ai2_allennlp 0.0 0.0 ellipse level 3 polarity 0
+57 frogsicles 0.0 0.0 ellipse level 3 polarity 1
+58 themusicpimp 0.0 0.0 ellipse level 3 polarity 1
+59 NanyPardo 0.0 0.0 ellipse level 3 polarity 1
+60 scikit_learn 0.0 0.0 ellipse level 3 polarity 0
+61 Duban_OrtizP 0.0 0.0 ellipse level 3 polarity 0
+62 SenalColombia 0.0 0.0 ellipse level 3 polarity 0
+63 TodoEsCienciaCo 0.0 0.0 ellipse level 3 polarity 0
+64 AllTooHumean 0.0 0.0 ellipse level 3 polarity 1
+65 RedGCTI 0.0 0.0 ellipse level 3 polarity 1
+66 UNESCO 0.0 0.0 ellipse level 3 polarity 0
+67 lisspereira 0.0 0.0 ellipse level 3 polarity 1
+68 eccarrilloe 0.0 0.0 ellipse level 3 polarity 0
+69 honnibal 0.0 0.0 ellipse level 3 polarity 0
+70 karpathy 0.0 0.0 ellipse level 3 polarity 0
+71 NLTK_org 0.0 0.0 ellipse level 3 polarity 0
+72 MantillaIgnacio 0.0 0.0 ellipse level 3 polarity 1
+73 sailorhg 0.0 0.0 ellipse level 3 polarity 0
+74 KirkDBorne 0.0 0.0 ellipse level 3 polarity 0
+75 jdwittenauer 0.0 0.0 ellipse level 3 polarity 0
+76 zuluagajorge 0.0 0.0 ellipse level 3 polarity 1
+77 peterlovesdata 0.0 0.0 ellipse level 3 polarity 0
+78 explosion_ai 0.0 0.0 ellipse level 3 polarity 0
+79 notibomba 0.0 0.0 ellipse level 3 polarity 1
+80 nayibbukele 0.0 0.0 ellipse level 3 polarity 1
+81 shopper_market 0.0 0.0 ellipse level 3 polarity 1
+82 jezzzini 0.0 0.0 ellipse level 3 polarity 1
+83 MarcoBrambi 0.0 0.0 ellipse level 3 polarity 0
+84 mgorbis 0.0 0.0 ellipse level 3 polarity 0
+85 mbonva 0.0 0.0 ellipse level 3 polarity 0
+86 dataandme 0.0 0.0 ellipse level 3 polarity 0
+87 noamross 0.0 0.0 ellipse level 3 polarity 0
+88 juliasilge 0.0 0.0 ellipse level 3 polarity 0
+89 _inesmontani 0.0 0.0 ellipse level 3 polarity 0
+90 CarlosFGalan 0.0 0.0 ellipse level 3 polarity 1
+91 GloriaAgudeloCa 0.0 0.0 ellipse level 3 polarity 1
+92 DanielSamperO 0.0 0.0 ellipse level 3 polarity 0
+93 DataScienceCtrl 0.0 0.0 ellipse level 3 polarity 0
+94 jason_mayes 0.0 0.0 ellipse level 3 polarity 0
+95 hcmariano 0.0 0.0 ellipse level 3 polarity 1
+96 sir_sw 0.0 0.0 ellipse level 3 polarity 1
+97 Yo_Filomena 0.0 0.0 ellipse level 3 polarity 1
+98 gneubig 0.0 0.0 ellipse level 3 polarity 0
+99 PaulinaSofiaTO 0.0 0.0 ellipse level 3 polarity 1
+100 CamiloPenaT 0.0 0.0 ellipse level 3 polarity 1
+101 andresgirak 0.0 0.0 ellipse level 3 polarity 1
+102 pyconcolombia 0.0 0.0 ellipse level 3 polarity 0
+103 CarmenzaRojas 0.0 0.0 ellipse level 3 polarity 1
+104 jaleguro 0.0 0.0 ellipse level 3 polarity 1
+105 efat007 0.0 0.0 ellipse level 3 polarity 0
+106 WRadioColombia 0.0 0.0 ellipse level 3 polarity 1
+107 camipaisa1 0.0 0.0 ellipse level 3 polarity 1
+108 bernaldibo 0.0 0.0 ellipse level 3 polarity 1
+109 SectorMovilidad 0.0 0.0 ellipse level 3 polarity 1
+110 inst_humboldt 0.0 0.0 ellipse level 3 polarity 0
+111 johnpd2 0.0 0.0 ellipse level 3 polarity 1
+112 JosLuisUrquiza1 0.0 0.0 ellipse level 3 polarity 1
+113 lcvelez 0.0 0.0 ellipse level 3 polarity 0
+114 stefan_fee 0.0 0.0 ellipse level 3 polarity 0
+115 jurafsky 0.0 0.0 ellipse level 3 polarity 0
+116 literlandweb1 0.0 0.0 ellipse level 3 polarity 1
+117 saludhernandezm 0.0 0.0 ellipse level 3 polarity 1
+118 JEP_Colombia 0.0 0.0 ellipse level 3 polarity 1
+119 tictac_ccit 0.0 0.0 ellipse level 3 polarity 1
+120 normismena 0.0 0.0 ellipse level 3 polarity 1
+121 Asobancaria 0.0 0.0 ellipse level 3 polarity 1
+122 MSFTColombia 0.0 0.0 ellipse level 3 polarity 1
+123 CamiloSilvaJ 0.0 0.0 ellipse level 3 polarity 1
+124 HassNassar 0.0 0.0 ellipse level 3 polarity 1
+125 CaracolRadio 0.0 0.0 ellipse level 3 polarity 1
+126 IvanDuque 0.0 0.0 ellipse level 3 polarity 1
+127 EnriquePenalosa 0.0 0.0 ellipse level 3 polarity 1
+128 TransMilenio 0.0 0.0 ellipse level 3 polarity 1
+129 ELTIEMPO 0.0 0.0 ellipse level 3 polarity 1
+130 laniakea2050 0.0 0.0 ellipse level 3 polarity 1
+131 PoliciaColombia 0.0 0.0 ellipse level 3 polarity 1
+132 mindefensa 0.0 0.0 ellipse level 3 polarity 1
+133 PalomaSenadora 0.0 0.0 ellipse level 3 polarity 1
+134 COL_EJERCITO 0.0 0.0 ellipse level 3 polarity 1
+135 Ingeamanda 0.0 0.0 ellipse level 3 polarity 1
+136 coling2020 0.0 0.0 ellipse level 3 polarity 1
+137 talnupf 0.0 0.0 ellipse level 3 polarity 1
+138 Ministerio_TIC 0.0 0.0 ellipse level 3 polarity 1
+139 Nandeette 0.0 0.0 ellipse level 3 polarity 1
+140 danielmoresand 0.0 0.0 ellipse level 3 polarity 1
+141 biolojical 0.0 0.0 ellipse level 3 polarity 0
+142 frrncl 0.0 0.0 ellipse level 3 polarity 0
+143 Thom_Wolf 0.0 0.0 ellipse level 3 polarity 0
+144 redpuntoes 0.0 0.0 ellipse level 3 polarity 1
+145 maravilla71 0.0 0.0 ellipse level 3 polarity 1
+146 verne 0.0 0.0 ellipse level 3 polarity 1
+147 OrdonezGonzalo 0.0 0.0 ellipse level 3 polarity 0
+148 JGarcia_Estevez 0.0 0.0 ellipse level 3 polarity 0
+149 mapi_villaveces 0.0 0.0 ellipse level 3 polarity 0
+150 SandraBoni4 0.0 0.0 ellipse level 3 polarity 1
+151 dvelasco82 0.0 0.0 ellipse level 3 polarity 1
+152 BorgesJorgeL 0.0 0.0 ellipse level 3 polarity 1
+153 SFCsupervisor 0.0 0.0 ellipse level 3 polarity 1
+154 _supersolidaria 0.0 0.0 ellipse level 3 polarity 1
+155 InveUTB 0.0 0.0 ellipse level 3 polarity 0
+156 MartinSantosR 0.0 0.0 ellipse level 3 polarity 0
+157 LaNet_2019 0.0 0.0 ellipse level 3 polarity 1
+158 Jhonatan_MalAlf 0.0 0.0 ellipse level 3 polarity 0
+159 Proarbol_Col 0.0 0.0 ellipse level 3 polarity 1
+160 alex_gude 0.0 0.0 ellipse level 3 polarity 0
+161 CRCCol 0.0 0.0 ellipse level 3 polarity 0
+162 MovistarCo 0.0 0.0 ellipse level 3 polarity 0
+163 elcarlosjuan 0.0 0.0 ellipse level 3 polarity 0
+164 KonHector 0.0 0.0 ellipse level 3 polarity 0
+165 CensatAguaViva 0.0 0.0 ellipse level 3 polarity 0
+166 ambienteysoc 0.0 0.0 ellipse level 3 polarity 0
+167 RJAColombia 0.0 0.0 ellipse level 3 polarity 0
+168 FNAmbiental 0.0 0.0 ellipse level 3 polarity 0
+169 alegriafonseca 0.0 0.0 ellipse level 3 polarity 0
+170 JJLN0468 0.0 0.0 ellipse level 3 polarity 0
+171 Almagro_OEA2015 0.0 0.0 ellipse level 3 polarity 0
+172 DiegoHdezLosada 0.0 0.0 ellipse level 3 polarity 1
+173 realpython 0.0 0.0 ellipse level 3 polarity 0
+174 saludand 0.0 0.0 ellipse level 3 polarity 0
+175 luisoc35 0.0 0.0 ellipse level 3 polarity 1
+176 PrimoRojas 0.0 0.0 ellipse level 3 polarity 1
+177 sibcolombia 0.0 0.0 ellipse level 3 polarity 1
+178 WayraCo 0.0 0.0 ellipse level 3 polarity 1
+179 mensajerosurban 0.0 0.0 ellipse level 3 polarity 1
+180 RevistaDinero 0.0 0.0 ellipse level 3 polarity 1
+181 UExternado 0.0 0.0 ellipse level 3 polarity 1
+182 ObservaticsUEX 0.0 0.0 ellipse level 3 polarity 1
+183 cp_ctgybol 0.0 0.0 ellipse level 3 polarity 1
+184 daiesco 0.0 0.0 ellipse level 3 polarity 1
+185 Colciencias 0.0 0.0 ellipse level 3 polarity 0
+186 OKFN 0.0 0.0 ellipse level 3 polarity 0
+187 actualidadpanam 0.0 0.0 ellipse level 3 polarity 1
+188 ibobriakov 0.0 0.0 ellipse level 3 polarity 0
+189 NobelPrize 0.0 0.0 ellipse level 3 polarity 0
+190 lmvilchesb 0.0 0.0 ellipse level 3 polarity 0
+191 joaosal 0.0 0.0 ellipse level 3 polarity 1
+192 cloudera 0.0 0.0 ellipse level 3 polarity 1
+193 UniJaveriana 0.0 0.0 ellipse level 3 polarity 1
+194 samuelazout 0.0 0.0 ellipse level 3 polarity 1
+195 Tigo_Colombia 0.0 0.0 ellipse level 3 polarity 1
+196 Thanatoscar 0.0 0.0 ellipse level 3 polarity 1
+197 nnydsars 0.0 0.0 ellipse level 3 polarity 0
+198 Melpinzon 0.0 0.0 ellipse level 3 polarity 1
+199 TigoMusicCO 0.0 0.0 ellipse level 3 polarity 1
+200 totto 0.0 0.0 ellipse level 3 polarity 0
+201 Virgin 0.0 0.0 ellipse level 3 polarity 1
+202 lmigue99 0.0 0.0 ellipse level 3 polarity 0
+203 Jullyguz 0.0 0.0 ellipse level 3 polarity 0
+204 marrudt 0.0 0.0 ellipse level 3 polarity 0
+205 JuanManSantos 0.0 0.0 ellipse level 3 polarity 1
+206 wef 0.0 0.0 ellipse level 3 polarity 1
+207 thinking_info 0.0 0.0 ellipse level 3 polarity 1
+208 luisa_nieto1 0.0 0.0 ellipse level 3 polarity 1
+209 ResearchThink 0.0 0.0 ellipse level 3 polarity 1
+210 serebrisky 0.0 0.0 ellipse level 3 polarity 1
+211 vicentefenoll 0.0 0.0 ellipse level 3 polarity 1
+212 groizner 0.0 0.0 ellipse level 3 polarity 1
+213 hubBOG 0.0 0.0 ellipse level 3 polarity 1
+214 OctoberKate 0.0 0.0 ellipse level 3 polarity 1
+215 BunnyInc 0.0 0.0 ellipse level 3 polarity 1
+216 InnpulsaCol 0.0 0.0 ellipse level 3 polarity 0
+217 ENTERCO 0.0 0.0 ellipse level 3 polarity 1
+218 sophiashakti 0.0 0.0 ellipse level 3 polarity 0
+219 gyepesl 0.0 0.0 ellipse level 3 polarity 1
+220 Viviaguirree 0.0 0.0 ellipse level 3 polarity 1
+221 luismi_barral 0.0 0.0 ellipse level 3 polarity 1
+222 ericsson 0.0 0.0 ellipse level 3 polarity 0
+223 SlideShare 0.0 0.0 ellipse level 3 polarity 0
+224 YouTube 0.0 0.0 ellipse level 3 polarity 0
+225 Inc 0.0 0.0 ellipse level 3 polarity 0
+226 urnacristalgov 0.0 0.0 ellipse level 3 polarity 1
+227 diegomolanovega 0.0 0.0 ellipse level 3 polarity 1
+228 jeffhasen 0.0 0.0 ellipse level 3 polarity 0
+229 WHO 0.0 0.0 ellipse level 3 polarity 0
+230 WIRED 0.0 0.0 ellipse level 3 polarity 1
+231 santi_a_gogo 0.0 0.0 ellipse level 3 polarity 1
+232 CDCGlobal 0.0 0.0 ellipse level 3 polarity 0
+233 stevejobs 0.0 0.0 ellipse level 3 polarity 0
+234 Ley30 0.0 0.0 ellipse level 3 polarity 0
+235 addthis 0.0 0.0 ellipse level 3 polarity 0
+236 canal13colombia 0.0 0.0 ellipse level 3 polarity 1
+237 portafoliocomco 0.0 0.0 ellipse level 3 polarity 1
+238 csierra 0.0 0.0 ellipse level 3 polarity 0
+239 AlcaldiadeMed 0.0 0.0 ellipse level 3 polarity 1
+240 JuventudMed 0.0 0.0 ellipse level 3 polarity 1
+241 siatamedellin 0.0 0.0 ellipse level 3 polarity 1
+242 metrodemedellin 0.0 0.0 ellipse level 3 polarity 1
+243 jhonatan_jh1 0.0 0.0 ellipse level 3 polarity 1
+244 DAGRDMedellin 0.0 0.0 ellipse level 3 polarity 1
+245 PROCOLOMBIACO 0.0 0.0 ellipse level 3 polarity 0
+246 ITM_Medellin 0.0 0.0 ellipse level 3 polarity 1
+247 bppiloto 0.0 0.0 ellipse level 3 polarity 1
+248 Ruta_N 0.0 0.0 ellipse level 3 polarity 1
+249 angelavicario 0.0 0.0 ellipse level 3 polarity 1
+250 natyvemar 0.0 0.0 ellipse level 3 polarity 1
+251 Areametropol 0.0 0.0 ellipse level 3 polarity 1
+252 AeropuertoEPAOH 0.0 0.0 ellipse level 3 polarity 1
+253 SOSPAISA 0.0 0.0 ellipse level 3 polarity 0
+254 acimedellin 0.0 0.0 ellipse level 3 polarity 1
+255 Mineducacion 0.0 0.0 ellipse level 3 polarity 1
+256 CompuParaEducar 0.0 0.0 ellipse level 3 polarity 0
+257 Raulemoralesva 0.0 0.0 ellipse level 3 polarity 0
+258 IUColmayor 0.0 0.0 ellipse level 3 polarity 1
+259 ConcejoMedellin 0.0 0.0 ellipse level 3 polarity 1
+260 ICFEScol 0.0 0.0 ellipse level 3 polarity 1
+261 FiestaLibro 0.0 0.0 ellipse level 3 polarity 1
+262 infopresidencia 0.0 0.0 ellipse level 3 polarity 1
+263 tunelGGE 0.0 0.0 ellipse level 3 polarity 1
+264 AgenciaAPPMed 0.0 0.0 ellipse level 3 polarity 1
+265 J_Upegui 0.0 0.0 ellipse level 3 polarity 1
+266 FiestadelLibro 0.0 0.0 ellipse level 3 polarity 1
+267 plazamayormed 0.0 0.0 ellipse level 3 polarity 1
+268 SapienciaMed 0.0 0.0 ellipse level 3 polarity 0
+269 cta_co 0.0 0.0 ellipse level 3 polarity 1
+270 mincultura 0.0 0.0 ellipse level 3 polarity 0
+271 Proimagenes 0.0 0.0 ellipse level 3 polarity 0
+272 AeropuertoMDE 0.0 0.0 ellipse level 3 polarity 1
+273 victorhzapata 0.0 0.0 ellipse level 3 polarity 1
+274 LopezLedys 0.0 0.0 ellipse level 3 polarity 0
+275 BureauMedellin 0.0 0.0 ellipse level 3 polarity 1
+276 AlejandroAriasG 0.0 0.0 ellipse level 3 polarity 1
+277 oscarhurtadop 0.0 0.0 ellipse level 3 polarity 1
+278 PoliciaMedellin 0.0 0.0 ellipse level 3 polarity 1
+279 FiscaliaCol 0.0 0.0 ellipse level 3 polarity 1
+280 ForteGroupInc 0.0 0.0 ellipse level 3 polarity 1
+281 LDSoficial 0.0 0.0 ellipse level 3 polarity 1
+282 RXNoficial 0.0 0.0 ellipse level 3 polarity 1
+283 Redmusicamed 0.0 0.0 ellipse level 3 polarity 0
+284 IUPascualBravo 0.0 0.0 ellipse level 3 polarity 1
+285 tecdeantioquia 0.0 0.0 ellipse level 3 polarity 0
+286 crehanacom 0.0 0.0 ellipse level 3 polarity 0
+287 jbotanicomed 0.0 0.0 ellipse level 3 polarity 0
+288 diamaov 0.0 0.0 ellipse level 3 polarity 1
+289 seguridadmed 0.0 0.0 ellipse level 3 polarity 1
+290 EDUMedellin 0.0 0.0 ellipse level 3 polarity 1
+291 estebanrestre 0.0 0.0 ellipse level 3 polarity 1
+292 MinSaludCol 0.0 0.0 ellipse level 3 polarity 1
+293 coursera 0.0 0.0 ellipse level 3 polarity 1
+294 NataliaUrregoA 0.0 0.0 ellipse level 3 polarity 1
+295 EPMestamosahi 0.0 0.0 ellipse level 3 polarity 1
+296 UNALOficial 0.0 0.0 ellipse level 3 polarity 0
+297 c40cities 0.0 0.0 ellipse level 3 polarity 0
+298 sttmed 0.0 0.0 ellipse level 3 polarity 1
+299 MinTransporteCo 0.0 0.0 ellipse level 3 polarity 1
+300 Mercadolibre 0.0 0.0 ellipse level 3 polarity 1
+301 Goyopuerta 0.0 0.0 ellipse level 3 polarity 1
+302 camilolopez25 0.0 0.0 ellipse level 3 polarity 0
+303 Sebastian_TIC 0.0 0.0 ellipse level 3 polarity 1
+304 Isvimed 0.0 0.0 ellipse level 3 polarity 1
+305 Poligran 0.0 0.0 ellipse level 3 polarity 0
+306 ParqueArvi 0.0 0.0 ellipse level 3 polarity 1
+307 ONU_es 0.0 0.0 ellipse level 3 polarity 1
+308 Juanparal 0.0 0.0 ellipse level 3 polarity 1
+309 Mauriciovdllo 0.0 0.0 ellipse level 3 polarity 0
+310 platohedro 0.0 0.0 ellipse level 3 polarity 1
+311 AlcaldiadeBello 0.0 0.0 ellipse level 3 polarity 0
+312 Cuadrado 0.0 0.0 ellipse level 3 polarity 1
+313 INDERMEDELLIN 0.0 0.0 ellipse level 3 polarity 1
+314 DNP_Colombia 0.0 0.0 ellipse level 3 polarity 0
+315 MinHacienda 0.0 0.0 ellipse level 3 polarity 0
+316 RodLuisAlberto 0.0 0.0 ellipse level 3 polarity 0
+317 dgomezco 0.0 0.0 ellipse level 3 polarity 0
+318 jdbernalgo 0.0 0.0 ellipse level 3 polarity 0
+319 LopezRedyAdolfo 0.0 0.0 ellipse level 3 polarity 0
+320 AmpGarciaM 0.0 0.0 ellipse level 3 polarity 0
+321 EducacionMed 0.0 0.0 ellipse level 3 polarity 1
+322 soyalejangu 0.0 0.0 ellipse level 3 polarity 1
+323 Ale_Gomezl 0.0 0.0 ellipse level 3 polarity 1
+324 J_Clopatofsky 0.0 0.0 ellipse level 3 polarity 1
+325 ViceColombia 0.0 0.0 ellipse level 3 polarity 1
+326 Altavozfest 0.0 0.0 ellipse level 3 polarity 1
+327 SecNoViolencia 0.0 0.0 ellipse level 3 polarity 1
+328 nacionaloficial 0.0 0.0 ellipse level 3 polarity 1
+329 DIM_Oficial 0.0 0.0 ellipse level 3 polarity 1
+330 CONMEBOL 0.0 0.0 ellipse level 3 polarity 1
+331 Dimayor 0.0 0.0 ellipse level 3 polarity 1
+332 Emvarias 0.0 0.0 ellipse level 3 polarity 1
+333 Alegalleo73 0.0 0.0 ellipse level 3 polarity 1
+334 FundaJCuadrado 0.0 0.0 ellipse level 3 polarity 1
+335 PatrimonioMDE 0.0 0.0 ellipse level 3 polarity 1
+336 equidad_mujer 0.0 0.0 ellipse level 3 polarity 1
+337 ONUHumanRights 0.0 0.0 ellipse level 3 polarity 1
+338 Perpetuo_DC 0.0 0.0 ellipse level 3 polarity 1
+339 alejandromattah 0.0 0.0 ellipse level 3 polarity 1
+340 LinaGaviriaH 0.0 0.0 ellipse level 3 polarity 1
+341 NoticiasRCN 0.0 0.0 ellipse level 3 polarity 1
+342 mrjohsand 0.0 0.0 ellipse level 3 polarity 1
+343 TerminalesMed 0.0 0.0 ellipse level 3 polarity 1
+344 NoticiasCaracol 0.0 0.0 ellipse level 3 polarity 1
+345 lafm 0.0 0.0 ellipse level 3 polarity 1
+346 webCopacabana 0.0 0.0 ellipse level 3 polarity 1
+347 DigitalSchoolCO 0.0 0.0 ellipse level 3 polarity 1
+348 rcnradio 0.0 0.0 ellipse level 3 polarity 1
+349 AlvaroArtD 0.0 0.0 ellipse level 3 polarity 1
+350 BluRadioCo 0.0 0.0 ellipse level 3 polarity 1
+351 Asocentros 0.0 0.0 ellipse level 3 polarity 0
+352 ABC_NOTICIERO 0.0 0.0 ellipse level 3 polarity 1
+353 general_luz 0.0 0.0 ellipse level 3 polarity 1
+354 FundacionGabo 0.0 0.0 ellipse level 3 polarity 1
+355 sztajnszrajber 0.0 0.0 ellipse level 3 polarity 0
+356 AlcaldEstrella 0.0 0.0 ellipse level 3 polarity 1
+357 Fenalco_Ant 0.0 0.0 ellipse level 3 polarity 1
+358 UNALmedellin 0.0 0.0 ellipse level 3 polarity 1
+359 julymartilo 0.0 0.0 ellipse level 3 polarity 1
+360 compas_urbano 0.0 0.0 ellipse level 3 polarity 1
+361 1jorgetorresram 0.0 0.0 ellipse level 3 polarity 1
+362 geekboss_co 0.0 0.0 ellipse level 3 polarity 1
+363 _IUSH 0.0 0.0 ellipse level 3 polarity 1
+364 DianaToroZ 0.0 0.0 ellipse level 3 polarity 1
+365 AeropuertoEOH 0.0 0.0 ellipse level 3 polarity 1
+366 convivamos 0.0 0.0 ellipse level 3 polarity 0
+367 fonturcol 0.0 0.0 ellipse level 3 polarity 1
+368 cvstodia 0.0 0.0 ellipse level 3 polarity 1
+369 Danielsuarezvoz 0.0 0.0 ellipse level 3 polarity 1
+370 _JotaT 0.0 0.0 ellipse level 3 polarity 1
+371 Madrescandelari 0.0 0.0 ellipse level 3 polarity 1
+372 AnaPiedadJaram1 0.0 0.0 ellipse level 3 polarity 1
+373 MAColombiaUHD 0.0 0.0 ellipse level 3 polarity 1
+374 LBuitragoLeon 0.0 0.0 ellipse level 3 polarity 1
+375 CadenaGaitan 0.0 0.0 ellipse level 3 polarity 1
+376 Buen_Comienzo 0.0 0.0 ellipse level 3 polarity 1
+377 olgapiedadas 0.0 0.0 ellipse level 3 polarity 1
+378 BibliotecasMed 0.0 0.0 ellipse level 3 polarity 1
+379 Hernan1913 0.0 0.0 ellipse level 3 polarity 1
+380 naturalpluss 0.0 0.0 ellipse level 3 polarity 1
+381 ShirleyPatino 0.0 0.0 ellipse level 3 polarity 1
+382 johnjasi 0.0 0.0 ellipse level 3 polarity 1
+383 tathyg1 0.0 0.0 ellipse level 3 polarity 1
+384 juanfeeeee 0.0 0.0 ellipse level 3 polarity 1
+385 camigon05 0.0 0.0 ellipse level 3 polarity 1
+386 lavozdelaconci5 0.0 0.0 ellipse level 3 polarity 1
+387 luisyepesb 0.0 0.0 ellipse level 3 polarity 1
+388 FdoQuijano 0.0 0.0 ellipse level 3 polarity 1
+389 roures1 0.0 0.0 ellipse level 3 polarity 1
+390 xmimedellin 0.0 0.0 ellipse level 3 polarity 1
+391 SomosTodosMov 0.0 0.0 ellipse level 3 polarity 1
+392 FaunerA 0.0 0.0 ellipse level 3 polarity 1
+393 s 0.0 0.0 ellipse level 3 polarity 1
+394 Wilbermontoya 0.0 0.0 ellipse level 3 polarity 1
+395 bermuely 0.0 0.0 ellipse level 3 polarity 1
+396 AdriAlba7 0.0 0.0 ellipse level 3 polarity 1
+397 lharangog 0.0 0.0 ellipse level 3 polarity 1
+398 jbarrerabonet 0.0 0.0 ellipse level 3 polarity 1
+399 vivirpoblado 0.0 0.0 ellipse level 3 polarity 1
+400 Jgiraldo_m 0.0 0.0 ellipse level 3 polarity 1
+401 JuanJoseAuxT 0.0 0.0 ellipse level 3 polarity 1
+402 adelachqs 0.0 0.0 ellipse level 3 polarity 1
+403 Gmo6325 0.0 0.0 ellipse level 3 polarity 1
+404 JairOrozcoQ 0.0 0.0 ellipse level 3 polarity 1
+405 Metrosalud 0.0 0.0 ellipse level 3 polarity 1
+406 MauroFlorezO 0.0 0.0 ellipse level 3 polarity 1
+407 AndreeSecSalud 0.0 0.0 ellipse level 3 polarity 1
+408 AlcaldiaVpar 0.0 0.0 ellipse level 3 polarity 1
+409 TerpelCol 0.0 0.0 ellipse level 3 polarity 1
+410 Bancolombia 0.0 0.0 ellipse level 3 polarity 1
+411 OlmosCP 0.0 0.0 ellipse level 3 polarity 1
+412 diegoj_com 0.0 0.0 ellipse level 3 polarity 1
+413 elbufalopineda 0.0 0.0 ellipse level 3 polarity 1
+414 smolinac21 0.0 0.0 ellipse level 3 polarity 1
+415 ProvidenciaCol 0.0 0.0 ellipse level 3 polarity 1
+416 siemprevivamarg 0.0 0.0 ellipse level 3 polarity 1
+417 UdeA 0.0 0.0 ellipse level 3 polarity 1
+418 karitocam18 0.0 0.0 ellipse level 3 polarity 1
+419 MinInterior 0.0 0.0 ellipse level 3 polarity 0
+420 GobAntioquia 0.0 0.0 ellipse level 3 polarity 1
+421 ValoraAnalitik 0.0 0.0 ellipse level 3 polarity 1
+422 mrbleat 0.0 0.0 ellipse level 3 polarity 1
+423 pipe_serna 0.0 0.0 ellipse level 3 polarity 1
+424 pipesuarezm 0.0 0.0 ellipse level 3 polarity 1
+425 elkreyes 0.0 0.0 ellipse level 3 polarity 1
+426 UNESCO_es 0.0 0.0 ellipse level 3 polarity 1
+427 CarlosSGT 0.0 0.0 ellipse level 3 polarity 1
+428 rabodeajip 0.0 0.0 ellipse level 3 polarity 1
+429 alflaserna 0.0 0.0 ellipse level 3 polarity 1
+430 Yanohaynutella 0.0 0.0 ellipse level 3 polarity 0
+431 Katerinesuper 0.0 0.0 ellipse level 3 polarity 1
+432 GoezHerley 0.0 0.0 ellipse level 3 polarity 1
+433 UniversidadCES 0.0 0.0 ellipse level 3 polarity 1
+434 Daniealejandr0 0.0 0.0 ellipse level 3 polarity 1
+435 SergioCorazM 0.0 0.0 ellipse level 3 polarity 1
+436 RodeoAlto 0.0 0.0 ellipse level 3 polarity 1
+437 dinavanes29 0.0 0.0 ellipse level 3 polarity 1
+438 OIMColombia 0.0 0.0 ellipse level 3 polarity 1
+439 Fede_carvajal 0.0 0.0 ellipse level 3 polarity 1
+440 MikeQtum 0.0 0.0 ellipse level 3 polarity 0
+441 Alcaldiacopa 0.0 0.0 ellipse level 3 polarity 0
+442 AlcaldiaItagui 0.0 0.0 ellipse level 3 polarity 0
+443 CaldasAlcaldia 0.0 0.0 ellipse level 3 polarity 1
+444 AlcaldiaEnv 0.0 0.0 ellipse level 3 polarity 0
+445 FredyPomareda 0.0 0.0 ellipse level 3 polarity 1
+446 akaYessy 0.0 0.0 ellipse level 3 polarity 1
+447 fernandars23 0.0 0.0 ellipse level 3 polarity 1
+448 fliachavescasta 0.0 0.0 ellipse level 3 polarity 1
+449 rocarmar65 0.0 0.0 ellipse level 3 polarity 1
+450 hora13noticias 0.0 0.0 ellipse level 3 polarity 0
+451 andresmlopezz 0.0 0.0 ellipse level 3 polarity 1
+452 juandie23212931 0.0 0.0 ellipse level 3 polarity 1
+453 itrebilicIs 0.0 0.0 ellipse level 3 polarity 1
+454 sandovalito1000 0.0 0.0 ellipse level 3 polarity 1
+455 Alejo_giraldoh 0.0 0.0 ellipse level 3 polarity 1
+456 camoalvarez 0.0 0.0 ellipse level 3 polarity 1
+457 JAIMEALBERTOCO2 0.0 0.0 ellipse level 3 polarity 1
+458 AnnyArboledaD 0.0 0.0 ellipse level 3 polarity 1
+459 parse916 0.0 0.0 ellipse level 3 polarity 1
+460 jorandresbueno 0.0 0.0 ellipse level 3 polarity 1
+461 CamiiCarvajal_R 0.0 0.0 ellipse level 3 polarity 1
+462 sXXcambalache 0.0 0.0 ellipse level 3 polarity 1
+463 AnaKAmaya79 0.0 0.0 ellipse level 3 polarity 1
+464 GERMANPATINO 0.0 0.0 ellipse level 3 polarity 1
+465 exotechno 0.0 0.0 ellipse level 3 polarity 1
+466 victoriayepes 0.0 0.0 ellipse level 3 polarity 1
+467 ROKAutomationES 0.0 0.0 ellipse level 3 polarity 1
+468 yetto99 0.0 0.0 ellipse level 3 polarity 1
+469 ArusOficial 0.0 0.0 ellipse level 3 polarity 1
+470 CaroLinda0312 0.0 0.0 ellipse level 3 polarity 1
+471 vpr_0416 0.0 0.0 ellipse level 3 polarity 1
+472 KamilaV_ 0.0 0.0 ellipse level 3 polarity 0
+473 ISAGEN 0.0 0.0 ellipse level 3 polarity 1
+474 Fedesarrollo 0.0 0.0 ellipse level 3 polarity 1
+475 TPE_SmartCity 0.0 0.0 ellipse level 3 polarity 1
+476 gabrielgr7 0.0 0.0 ellipse level 3 polarity 1
+477 GRUPOSURA 0.0 0.0 ellipse level 3 polarity 0
+478 luisvarela888 0.0 0.0 ellipse level 3 polarity 1
+479 guillejesus 0.0 0.0 ellipse level 3 polarity 1
+480 Clauval1256 0.0 0.0 ellipse level 3 polarity 1
+481 IDARBO 0.0 0.0 ellipse level 3 polarity 1
+482 Cucholo 0.0 0.0 ellipse level 3 polarity 1
+483 santejodo 0.0 0.0 ellipse level 3 polarity 1
+484 YuryAnderson3 0.0 0.0 ellipse level 3 polarity 1
+485 MerqueoCol 0.0 0.0 ellipse level 3 polarity 1
+486 MillerLiteCol 0.0 0.0 ellipse level 3 polarity 1
+487 SollaNutricion 0.0 0.0 ellipse level 3 polarity 1
+488 ClaroColombia 0.0 0.0 ellipse level 3 polarity 0
+489 Erikarh01 0.0 0.0 ellipse level 3 polarity 1
+490 InstitutoSINCHI 0.0 0.0 ellipse level 3 polarity 0
+491 IDEAMColombia 0.0 0.0 ellipse level 3 polarity 1
+492 URosario 0.0 0.0 ellipse level 3 polarity 1
+493 Uniandes 0.0 0.0 ellipse level 3 polarity 1
+494 Parque_E 0.0 0.0 ellipse level 3 polarity 1
+495 EAFIT 0.0 0.0 ellipse level 3 polarity 1
+496 BloombergDotOrg 0.0 0.0 ellipse level 3 polarity 0
+497 GerenteEPM 0.0 0.0 ellipse level 3 polarity 1
+498 amedsim 0.0 0.0 ellipse level 3 polarity 1
+499 DanielNomada 0.0 0.0 ellipse level 3 polarity 1
+500 elishnaider 0.0 0.0 ellipse level 3 polarity 1
+501 EdilTavoLainez 0.0 0.0 ellipse level 3 polarity 1
+502 elclubdeprensa 0.0 0.0 ellipse level 3 polarity 1
+503 JaimeCuartas 0.0 0.0 ellipse level 3 polarity 1
+504 santiparralsc 0.0 0.0 ellipse level 3 polarity 1
+505 BLUAntioquia 0.0 0.0 ellipse level 3 polarity 1
+506 PizarroMariaJo 0.0 0.0 ellipse level 3 polarity 1
+507 ComisionVerdadC 0.0 0.0 ellipse level 3 polarity 1
+508 elcolombiano 0.0 0.0 ellipse level 3 polarity 1
+509 iungoeducation 0.0 0.0 ellipse level 3 polarity 1
+510 braulioEMarquez 0.0 0.0 ellipse level 3 polarity 1
+511 josefernandoee 0.0 0.0 ellipse level 3 polarity 0
+512 santimontoyaSab 0.0 0.0 ellipse level 3 polarity 0
+513 osanperez 0.0 0.0 ellipse level 3 polarity 0
+514 diegoagudelogir 0.0 0.0 ellipse level 3 polarity 0
+515 alexflorezh 0.0 0.0 ellipse level 3 polarity 1
+516 dirkjanjanssen 0.0 0.0 ellipse level 3 polarity 0
+517 GeorgeCatouche 0.0 0.0 ellipse level 3 polarity 0
+518 schlijper 0.0 0.0 ellipse level 3 polarity 0
+519 El_facineroso 0.0 0.0 ellipse level 3 polarity 1
+520 danimelma 0.0 0.0 ellipse level 3 polarity 1
+521 RosiGaviria 0.0 0.0 ellipse level 3 polarity 1
+522 Felipe_DuqueL 0.0 0.0 ellipse level 3 polarity 1
+523 ivanmarulanda 0.0 0.0 ellipse level 3 polarity 0
+524 Pontifex_es 0.0 0.0 ellipse level 3 polarity 1
+525 SoyDrGarcia 0.0 0.0 ellipse level 3 polarity 0
+526 isa_ceg 0.0 0.0 ellipse level 3 polarity 1
+527 wilmargiraldob 0.0 0.0 ellipse level 3 polarity 1
+528 CarolinaSaninV 0.0 0.0 ellipse level 3 polarity 0
+529 Pfrobledo 0.0 0.0 ellipse level 3 polarity 1
+530 jclopezcastri 0.0 0.0 ellipse level 3 polarity 1
+531 Rodrigo_Lara_ 0.0 0.0 ellipse level 3 polarity 1
+532 monterialcaldia 0.0 0.0 ellipse level 3 polarity 1
+533 EugenioPrieto 0.0 0.0 ellipse level 3 polarity 1
+534 CNNEE 0.0 0.0 ellipse level 3 polarity 1
+535 murgueitiomauro 0.0 0.0 ellipse level 3 polarity 1
+536 Alcaldiapereira 0.0 0.0 ellipse level 3 polarity 1
+537 CiudadManizales 0.0 0.0 ellipse level 3 polarity 0
+538 LuisErnestoGL 0.0 0.0 ellipse level 3 polarity 1
+539 JorgeMelguizo 0.0 0.0 ellipse level 3 polarity 1
+540 MOFAkr_eng 0.0 0.0 ellipse level 3 polarity 1
+541 APCColombia 0.0 0.0 ellipse level 3 polarity 1
+542 vtl_22 0.0 0.0 ellipse level 3 polarity 0
+543 uribeu 0.0 0.0 ellipse level 3 polarity 0
+544 LuisFSuarezV 0.0 0.0 ellipse level 3 polarity 1
+545 scarecolombia 0.0 0.0 ellipse level 3 polarity 1
+546 yongaviria89 0.0 0.0 ellipse level 3 polarity 1
+547 vcalvot 0.0 0.0 ellipse level 3 polarity 1
+548 cesarolse 0.0 0.0 ellipse level 3 polarity 1
+549 Fabiohrivera 0.0 0.0 ellipse level 3 polarity 1
+550 saviasaludeps 0.0 0.0 ellipse level 3 polarity 0
+551 UniversidadEIA 0.0 0.0 ellipse level 3 polarity 1
+552 JuanParboleda 0.0 0.0 ellipse level 3 polarity 1
+553 AdrianaLucia 0.0 0.0 ellipse level 3 polarity 1
+554 Filarmed 0.0 0.0 ellipse level 3 polarity 1
+555 ericayasmin4 0.0 0.0 ellipse level 3 polarity 1
+556 JohaFuentes 0.0 0.0 ellipse level 3 polarity 1
+557 NitaCaro 0.0 0.0 ellipse level 3 polarity 1
+558 LaPullaOficial 0.0 0.0 ellipse level 3 polarity 1
+559 Juangilb 0.0 0.0 ellipse level 3 polarity 1
+560 alejovr90 0.0 0.0 ellipse level 3 polarity 1
+561 Dmonvel 0.0 0.0 ellipse level 3 polarity 1
+562 ActualidadRT 0.0 0.0 ellipse level 3 polarity 0
+563 Luiserux 0.0 0.0 ellipse level 3 polarity 1
+564 SaninPazC 0.0 0.0 ellipse level 3 polarity 1
+565 Semanaenvivo 0.0 0.0 ellipse level 3 polarity 1
+566 LasIgualadas 0.0 0.0 ellipse level 3 polarity 1
+567 zubie7a 0.0 0.0 ellipse level 3 polarity 0
+568 diana320978 0.0 0.0 ellipse level 3 polarity 1
+569 sebascifuente 0.0 0.0 ellipse level 3 polarity 1
+570 alerama84 0.0 0.0 ellipse level 3 polarity 0
+571 hopemedel3 0.0 0.0 ellipse level 3 polarity 0
+572 FernandoSalo68 0.0 0.0 ellipse level 3 polarity 1
+573 anacrisrestrepo 0.0 0.0 ellipse level 3 polarity 1
+574 JuanOrtizfr 0.0 0.0 ellipse level 3 polarity 1
+575 viviana_vo 0.0 0.0 ellipse level 3 polarity 1
+576 camivillamizar 0.0 0.0 ellipse level 3 polarity 1
+577 WISE_Tweets 0.0 0.0 ellipse level 3 polarity 0
+578 TeachForBiH 0.0 0.0 ellipse level 3 polarity 0
+579 Fruizgomez 0.0 0.0 ellipse level 3 polarity 1
+580 rdechavarria 0.0 0.0 ellipse level 3 polarity 1
+581 iciudadesfuturo 0.0 0.0 ellipse level 3 polarity 1
+582 Jrgen62949952 0.0 0.0 ellipse level 3 polarity 1
+583 juanferquinte10 0.0 0.0 ellipse level 3 polarity 1
+584 washingtonpost 0.0 0.0 ellipse level 3 polarity 1
+585 NewIndianXpress 0.0 0.0 ellipse level 3 polarity 0
+586 aristeguicnn 0.0 0.0 ellipse level 3 polarity 1
+587 ISAConexiones 0.0 0.0 ellipse level 3 polarity 1
+588 AlianzaLGBTI 0.0 0.0 ellipse level 3 polarity 1
+589 ConsejoLGBTI 0.0 0.0 ellipse level 3 polarity 1
+590 elpaiscali 0.0 0.0 ellipse level 3 polarity 1
+591 HPTU 0.0 0.0 ellipse level 3 polarity 1
+592 TheEconomist 0.0 0.0 ellipse level 3 polarity 1
+593 DIRECTV 0.0 0.0 ellipse level 3 polarity 1
+594 intergremialant 0.0 0.0 ellipse level 3 polarity 1
+595 vanedelatorre 0.0 0.0 ellipse level 3 polarity 1
+596 juanjosezu 0.0 0.0 ellipse level 3 polarity 1
+597 carocruzosorio 0.0 0.0 ellipse level 3 polarity 1
+598 EstebanSantos10 0.0 0.0 ellipse level 3 polarity 1
+599 JoMalagon 0.0 0.0 ellipse level 3 polarity 1
+600 elsanoguerabaq 0.0 0.0 ellipse level 3 polarity 1
+601 Rmayorga 0.0 0.0 ellipse level 3 polarity 1
+602 CristoBustos 0.0 0.0 ellipse level 3 polarity 1
+603 ricarospina 0.0 0.0 ellipse level 3 polarity 1
+604 sergio_fajardo 0.0 0.0 ellipse level 3 polarity 1
+605 JoseMAcevedo 0.0 0.0 ellipse level 3 polarity 1
+606 VLADDO 0.0 0.0 ellipse level 3 polarity 0
+607 rave1907 0.0 0.0 ellipse level 3 polarity 1
+608 Adriana91760275 0.0 0.0 ellipse level 3 polarity 1
+609 Raul_Doval 0.0 0.0 ellipse level 3 polarity 0
+610 R4D4M4NTIS 0.0 0.0 ellipse level 3 polarity 0
+611 cganozadurant 0.0 0.0 ellipse level 3 polarity 1
+612 sirjuanvelasque 0.0 0.0 ellipse level 3 polarity 1
+613 Juanchordo 0.0 0.0 ellipse level 3 polarity 1
+614 latercera 0.0 0.0 ellipse level 3 polarity 0
+615 malemg__ 0.0 0.0 ellipse level 3 polarity 1
+616 alejandro11002 0.0 0.0 ellipse level 3 polarity 0
+617 invimacolombia 0.0 0.0 ellipse level 3 polarity 1
+618 sahowardt 0.0 0.0 ellipse level 3 polarity 1
+619 JBALVIN 0.0 0.0 ellipse level 3 polarity 1
+620 elpais_america 0.0 0.0 ellipse level 3 polarity 1
+621 michaelreid52 0.0 0.0 ellipse level 3 polarity 0
+622 DANGELURIBE 0.0 0.0 ellipse level 3 polarity 1
+623 dany_matu 0.0 0.0 ellipse level 3 polarity 1
+624 radioclarin 0.0 0.0 ellipse level 3 polarity 1
+625 Mejia_Camilo96 0.0 0.0 ellipse level 3 polarity 1
+626 Summan_IT 0.0 0.0 ellipse level 3 polarity 1
+627 Mcristal3 0.0 0.0 ellipse level 3 polarity 1
+628 OscarTrejos9 0.0 0.0 ellipse level 3 polarity 1
+629 AbadColorado 0.0 0.0 ellipse level 3 polarity 1
+630 Natoroz 0.0 0.0 ellipse level 3 polarity 1
+631 lluevelove 0.0 0.0 ellipse level 3 polarity 1
+632 YoliMuoz7 0.0 0.0 ellipse level 3 polarity 1
+633 AlejoOlaya 0.0 0.0 ellipse level 3 polarity 1
+634 WilmarPosada3 0.0 0.0 ellipse level 3 polarity 1
+635 juanduermevela 0.0 0.0 ellipse level 3 polarity 1
+636 UniNoticias 0.0 0.0 ellipse level 3 polarity 1
+637 DeLaCalleHum 0.0 0.0 ellipse level 3 polarity 1
+638 CehernandezEcon 0.0 0.0 ellipse level 3 polarity 1
+639 csandovaltris 0.0 0.0 ellipse level 3 polarity 1
+640 juanscorralesg 0.0 0.0 ellipse level 3 polarity 1
+641 CarogGIL 0.0 0.0 ellipse level 3 polarity 1
+642 Las2Orillas 0.0 0.0 ellipse level 3 polarity 1
+643 DanielPalam 0.0 0.0 ellipse level 3 polarity 0
+644 RCN990Medellin 0.0 0.0 ellipse level 3 polarity 1
+645 BillGates 0.0 0.0 ellipse level 3 polarity 0
+646 nicoposadalopez 0.0 0.0 ellipse level 3 polarity 1
+647 Laura_gw_ 0.0 0.0 ellipse level 3 polarity 0
+648 Lardila83 0.0 0.0 ellipse level 3 polarity 1
+649 Karla_JLover 0.0 0.0 ellipse level 3 polarity 0
+650 JOHNEDWARDVALE1 0.0 0.0 ellipse level 3 polarity 1
+651 NCAntioquia 0.0 0.0 ellipse level 3 polarity 0
+652 calichepaisa 0.0 0.0 ellipse level 3 polarity 0
+653 jeshua_lop 0.0 0.0 ellipse level 3 polarity 0
+654 CMILANOTICIA 0.0 0.0 ellipse level 3 polarity 1
+655 EnCicla 0.0 0.0 ellipse level 3 polarity 1
+656 team_medellin 0.0 0.0 ellipse level 3 polarity 1
+657 chrisfroome 0.0 0.0 ellipse level 3 polarity 1
+658 BrentToderian 0.0 0.0 ellipse level 3 polarity 0
+659 DalaiLama 0.0 0.0 ellipse level 3 polarity 0
+660 odrybece 0.0 0.0 ellipse level 3 polarity 1
+661 sanchezc_v 0.0 0.0 ellipse level 3 polarity 1
+662 LizethSeplveda3 0.0 0.0 ellipse level 3 polarity 0
+663 KarenOs94171851 0.0 0.0 ellipse level 3 polarity 1
+664 maurohs10 0.0 0.0 ellipse level 3 polarity 0
+665 luisbernardov 0.0 0.0 ellipse level 3 polarity 1
+666 WSJ 0.0 0.0 ellipse level 3 polarity 1
+667 lunadavid 0.0 0.0 ellipse level 3 polarity 1
+668 fcarrilloflorez 0.0 0.0 ellipse level 3 polarity 0
+669 PGN_COL 0.0 0.0 ellipse level 3 polarity 1
+670 AMCI_Colombia 0.0 0.0 ellipse level 3 polarity 1
+671 yoanmfiguera 0.0 0.0 ellipse level 3 polarity 0
+672 maracucholibre 0.0 0.0 ellipse level 3 polarity 1
+673 75arroyave 0.0 0.0 ellipse level 3 polarity 1
+674 CaracolMedellin 0.0 0.0 ellipse level 3 polarity 1
+675 pezzutig 0.0 0.0 ellipse level 3 polarity 0
+676 IvanLalindeG 0.0 0.0 ellipse level 3 polarity 0
+677 CadavidDiego 0.0 0.0 ellipse level 3 polarity 0
+678 estradaisa 0.0 0.0 ellipse level 3 polarity 0
+679 jossenarvaez 0.0 0.0 ellipse level 3 polarity 0
+680 Fonseca 0.0 0.0 ellipse level 3 polarity 0
+681 marianapajon 0.0 0.0 ellipse level 3 polarity 0
+682 SebastianYatra 0.0 0.0 ellipse level 3 polarity 1
+683 maluma 0.0 0.0 ellipse level 3 polarity 1
+684 jcardonaleon 0.0 0.0 ellipse level 3 polarity 1
+685 carlosmcalle 0.0 0.0 ellipse level 3 polarity 1
+686 susoelpaspi 0.0 0.0 ellipse level 3 polarity 0
+687 AlegandroHoyos 0.0 0.0 ellipse level 3 polarity 0
+688 Grupo_Exito 0.0 0.0 ellipse level 3 polarity 1
+689 juanes 0.0 0.0 ellipse level 3 polarity 1
+690 piso21music 0.0 0.0 ellipse level 3 polarity 0
+691 LucasArnau 0.0 0.0 ellipse level 3 polarity 0
+692 F_Santo_Domingo 0.0 0.0 ellipse level 3 polarity 1
+693 ColantaOficial 0.0 0.0 ellipse level 3 polarity 1
+694 santorendon 0.0 0.0 ellipse level 3 polarity 1
+695 RAMIROMENESES 0.0 0.0 ellipse level 3 polarity 1
+696 AIerta 0.0 0.0 ellipse level 3 polarity 1
+697 diegotorres 0.0 0.0 ellipse level 3 polarity 1
+698 juanpablollano 0.0 0.0 ellipse level 3 polarity 0
+699 FundacionEPM 0.0 0.0 ellipse level 3 polarity 0
+700 Grupo_Argos 0.0 0.0 ellipse level 3 polarity 1
+701 UranRigoberto 0.0 0.0 ellipse level 3 polarity 1
+702 GoZwift 0.0 0.0 ellipse level 3 polarity 1
+703 JaimeGo71465177 0.0 0.0 ellipse level 3 polarity 0
+704 PipeBueno 0.0 0.0 ellipse level 3 polarity 1
+705 carlosvives 0.0 0.0 ellipse level 3 polarity 1
+706 ClaudiaElenaV 0.0 0.0 ellipse level 3 polarity 1
+707 gigitelodijo 0.0 0.0 ellipse level 3 polarity 1
+708 Barriletereo 0.0 0.0 ellipse level 3 polarity 1
+709 Zafarranchoband 0.0 0.0 ellipse level 3 polarity 1
+710 mateodinamita 0.0 0.0 ellipse level 3 polarity 1
+711 andresf30908475 0.0 0.0 ellipse level 3 polarity 1
+712 petrogustavo 0.0 0.0 ellipse level 3 polarity 1
+713 Kathikp18 0.0 0.0 ellipse level 3 polarity 1
+714 emecorrea 0.0 0.0 ellipse level 3 polarity 1
+715 MinAmbienteCo 0.0 0.0 ellipse level 3 polarity 1
+716 finzenu 0.0 0.0 ellipse level 3 polarity 0
+717 C_AgudeloB 0.0 0.0 ellipse level 3 polarity 1
+718 henryjournalist 0.0 0.0 ellipse level 3 polarity 1
+719 nahidbe 0.0 0.0 ellipse level 3 polarity 1
+720 Droupak 0.0 0.0 ellipse level 3 polarity 0
+721 MauroDupuert 0.0 0.0 ellipse level 3 polarity 0
+722 elANTIMILI 0.0 0.0 ellipse level 3 polarity 1
+723 Brumax21 0.0 0.0 ellipse level 3 polarity 1
+724 Asotransvaa1 0.0 0.0 ellipse level 3 polarity 0
+725 CamiloPrietoVal 0.0 0.0 ellipse level 3 polarity 1
+726 CEMEX_Colombia 0.0 0.0 ellipse level 3 polarity 0
+727 alejoruiz1_ 0.0 0.0 ellipse level 3 polarity 1
+728 YamidAmatCMI 0.0 0.0 ellipse level 3 polarity 1
+729 AdryOcampoM 0.0 0.0 ellipse level 3 polarity 1
+730 natalia_mahech 0.0 0.0 ellipse level 3 polarity 0
+731 engirisu 0.0 0.0 ellipse level 3 polarity 1
+732 ipsudea 0.0 0.0 ellipse level 3 polarity 1
+733 CamaraMedellin 0.0 0.0 ellipse level 3 polarity 1
+734 estoacaquees 0.0 0.0 ellipse level 3 polarity 1
+735 comunicandres 0.0 0.0 ellipse level 3 polarity 1
+736 kienyke 0.0 0.0 ellipse level 3 polarity 1
+737 alexaurrea 0.0 0.0 ellipse level 3 polarity 1
+738 JDPereaCordoba 0.0 0.0 ellipse level 3 polarity 1
+739 NYGIRALDO 0.0 0.0 ellipse level 3 polarity 1
+740 maicolaries 0.0 0.0 ellipse level 3 polarity 1
+741 Felipe_GuevaraM 0.0 0.0 ellipse level 3 polarity 1
+742 anibalgaviria 0.0 0.0 ellipse level 3 polarity 1
+743 Carito9612 0.0 0.0 ellipse level 3 polarity 1
+744 DanyJaraM 0.0 0.0 ellipse level 3 polarity 1
+745 mlagder 0.0 0.0 ellipse level 3 polarity 1
+746 eleodavalos 0.0 0.0 ellipse level 3 polarity 1
+747 Comfama 0.0 0.0 ellipse level 3 polarity 1
+748 pintuco_oficial 0.0 0.0 ellipse level 3 polarity 1
+749 marcela11338707 0.0 0.0 ellipse level 3 polarity 1
+750 AndresGaviriaC 0.0 0.0 ellipse level 3 polarity 0
+751 postobonoficial 0.0 0.0 ellipse level 3 polarity 1
+752 diegho2315 0.0 0.0 ellipse level 3 polarity 1
+753 davidbautistaqf 0.0 0.0 ellipse level 3 polarity 0
+754 RaulGomezVanega 0.0 0.0 ellipse level 3 polarity 1
+755 INPEC_Colombia 0.0 0.0 ellipse level 3 polarity 1
+756 JuanGabrielja 0.0 0.0 ellipse level 3 polarity 1
+757 serexplore 0.0 0.0 ellipse level 3 polarity 1
+758 INSColombia 0.0 0.0 ellipse level 3 polarity 1
+759 opsoms 0.0 0.0 ellipse level 3 polarity 1
+760 Posarias 0.0 0.0 ellipse level 3 polarity 1
+761 tyfcolombia 0.0 0.0 ellipse level 3 polarity 0
+762 EcheverriModou 0.0 0.0 ellipse level 3 polarity 1
+763 Sebas_Roldan 0.0 0.0 ellipse level 3 polarity 1
+764 santiagoshang 0.0 0.0 ellipse level 3 polarity 1
+765 360RadioCo 0.0 0.0 ellipse level 3 polarity 1
+766 robinsonusuga 0.0 0.0 ellipse level 3 polarity 1
+767 jspenagos 0.0 0.0 ellipse level 3 polarity 1
+768 Teleantioquia 0.0 0.0 ellipse level 3 polarity 1
+769 ProsperidadCol 0.0 0.0 ellipse level 3 polarity 1
+770 FicoGutierrez 0.0 0.0 ellipse level 3 polarity 1
+771 dani_henao 0.0 0.0 ellipse level 3 polarity 1
+772 LeonFredyM 0.0 0.0 ellipse level 3 polarity 1
+773 danielduquev 0.0 0.0 ellipse level 3 polarity 1
+774 stephan55802317 0.0 0.0 ellipse level 3 polarity 1
+775 AstridElena26 0.0 0.0 ellipse level 3 polarity 1
+776 MilenaPurple 0.0 0.0 ellipse level 3 polarity 1
+777 JairNav0826 0.0 0.0 ellipse level 3 polarity 1
+778 tatannnnn 0.0 0.0 ellipse level 3 polarity 1
+779 jescobah 0.0 0.0 ellipse level 3 polarity 1
+780 PipeArangoB 0.0 0.0 ellipse level 3 polarity 1
+781 esteban03569014 0.0 0.0 ellipse level 3 polarity 1
+782 Cataley60101538 0.0 0.0 ellipse level 3 polarity 1
+783 lfc426 0.0 0.0 ellipse level 3 polarity 1
+784 anmaoca 0.0 0.0 ellipse level 3 polarity 1
+785 Stefiixjb951 0.0 0.0 ellipse level 3 polarity 1
+786 777Elpaisa 0.0 0.0 ellipse level 3 polarity 1
+787 DanielLaRotta 0.0 0.0 ellipse level 3 polarity 1
+788 DNBomberosCol 0.0 0.0 ellipse level 3 polarity 1
+789 CarlosHolmesTru 0.0 0.0 ellipse level 3 polarity 1
+790 Osvaldo96789477 0.0 0.0 ellipse level 3 polarity 0
+791 JuanOspinaV 0.0 0.0 ellipse level 3 polarity 1
+792 FrBarbosaD 0.0 0.0 ellipse level 3 polarity 1
+793 FedesoftCol 0.0 0.0 ellipse level 3 polarity 1
+794 WilderWiler 0.0 0.0 ellipse level 3 polarity 1
+795 paolavargasdllo 0.0 0.0 ellipse level 3 polarity 1
+796 Minvivienda 0.0 0.0 ellipse level 3 polarity 1
+797 Findeter 0.0 0.0 ellipse level 3 polarity 1
+798 Karen_delgadom 0.0 0.0 ellipse level 3 polarity 1
+799 JorgeJulianOsor 0.0 0.0 ellipse level 3 polarity 0
+800 davalho 0.0 0.0 ellipse level 3 polarity 1
+801 Colin_M_R 0.0 0.0 ellipse level 3 polarity 0
+802 JuanCQuinteroM 0.0 0.0 ellipse level 3 polarity 1
+803 LauraValdivieso 0.0 0.0 ellipse level 3 polarity 1
+804 JuanalLondono 0.0 0.0 ellipse level 3 polarity 1
+805 YeseniaRiveraV 0.0 0.0 ellipse level 3 polarity 1
+806 jjimenez816 0.0 0.0 ellipse level 3 polarity 1
+807 MedComoVamos 0.0 0.0 ellipse level 3 polarity 1
+808 sjmunozm 0.0 0.0 ellipse level 3 polarity 1
+809 TourColombiaUCI 0.0 0.0 ellipse level 3 polarity 1
+810 fabioaduarte 0.0 0.0 ellipse level 3 polarity 1
+811 RamiroBejaranoG 0.0 0.0 ellipse level 3 polarity 1
+812 MisionONUCol 0.0 0.0 ellipse level 3 polarity 1
+813 metalgus 0.0 0.0 ellipse level 3 polarity 1
+814 ICBFColombia 0.0 0.0 ellipse level 3 polarity 1
+815 Zalman5K 0.0 0.0 ellipse level 3 polarity 1
+816 EstradaCarlosM 0.0 0.0 ellipse level 3 polarity 1
+817 DAFP_COLOMBIA 0.0 0.0 ellipse level 3 polarity 1
+818 DapardAntioquia 0.0 0.0 ellipse level 3 polarity 1
+819 dorasaldarriaga 0.0 0.0 ellipse level 3 polarity 1
+820 Estamos_Listas 0.0 0.0 ellipse level 3 polarity 1
+821 InviasOficial 0.0 0.0 ellipse level 3 polarity 1
+822 juliodenuncia1 0.0 0.0 ellipse level 3 polarity 1
+823 ManuelO14490123 0.0 0.0 ellipse level 3 polarity 1
+824 rectori78016738 0.0 0.0 ellipse level 3 polarity 1
+825 gloriavelez1412 0.0 0.0 ellipse level 3 polarity 1
+826 Zipel 0.0 0.0 ellipse level 3 polarity 1
+827 cartage_mario 0.0 0.0 ellipse level 3 polarity 1
+828 jorgeivan8a 0.0 0.0 ellipse level 3 polarity 1
+829 Asocapitales 0.0 0.0 ellipse level 3 polarity 1
+830 elflacomejiam 0.0 0.0 ellipse level 3 polarity 1
+831 JohaJaramilloP 0.0 0.0 ellipse level 3 polarity 0
+832 ShirleyMZuluaga 0.0 0.0 ellipse level 3 polarity 1
+833 cupeguiortiz 0.0 0.0 ellipse level 3 polarity 0
+834 Hernan_vargasm 0.0 0.0 ellipse level 3 polarity 1
+835 lhernanta 0.0 0.0 ellipse level 3 polarity 0
+836 marcejoya 0.0 0.0 ellipse level 3 polarity 1
+837 julios323 0.0 0.0 ellipse level 3 polarity 1
+838 CamiloRomero 0.0 0.0 ellipse level 3 polarity 1
+839 felipemgomez8 0.0 0.0 ellipse level 3 polarity 1
+840 ESAPOficial 0.0 0.0 ellipse level 3 polarity 1
+841 JCardenasRey 0.0 0.0 ellipse level 3 polarity 0
+842 juliandezubiria 0.0 0.0 ellipse level 3 polarity 1
+843 eadg5 0.0 0.0 ellipse level 3 polarity 0
+844 Santialarconu 0.0 0.0 ellipse level 3 polarity 1
+845 FelipeBetancurC 0.0 0.0 ellipse level 3 polarity 0
+846 CalyMauricio 0.0 0.0 ellipse level 3 polarity 0
+847 PartidoMIRA 0.0 0.0 ellipse level 3 polarity 0
+848 RoyBarreras 0.0 0.0 ellipse level 3 polarity 1
+849 IvanAgudeloZ 0.0 0.0 ellipse level 3 polarity 1
+850 hidroituango 0.0 0.0 ellipse level 3 polarity 1
+851 MigueAQuintero 0.0 0.0 ellipse level 3 polarity 1
+852 apoya_lonuestro 0.0 0.0 ellipse level 3 polarity 1
+853 ValeroMadrid_ 0.0 0.0 ellipse level 3 polarity 1
+854 SmartCityexpo 0.0 0.0 ellipse level 3 polarity 0
+855 jefbanguera 0.0 0.0 ellipse level 3 polarity 1
+856 JairoLadino13 0.0 0.0 ellipse level 3 polarity 1
+857 santoro_92 0.0 0.0 ellipse level 3 polarity 0
+858 Colcheck 0.0 0.0 ellipse level 3 polarity 1
+859 juanfel5585 0.0 0.0 ellipse level 3 polarity 1
+860 Punkecit0 0.0 0.0 ellipse level 3 polarity 1
+861 alejandromayam 0.0 0.0 ellipse level 3 polarity 1
+862 danielarang0 0.0 0.0 ellipse level 3 polarity 1
+863 Maryaristizabal 0.0 0.0 ellipse level 3 polarity 0
+864 macv1941 0.0 0.0 ellipse level 3 polarity 1
+865 marlagutierreza 0.0 0.0 ellipse level 3 polarity 1
+866 carloselbuho 0.0 0.0 ellipse level 3 polarity 1
+867 lpizanor 0.0 0.0 ellipse level 3 polarity 0
+868 YolandaRuizCe 0.0 0.0 ellipse level 3 polarity 0
+869 afchavarriac 0.0 0.0 ellipse level 3 polarity 1
+870 luisangelsjo 0.0 0.0 ellipse level 3 polarity 1
+871 cesarochoaS 0.0 0.0 ellipse level 3 polarity 0
+872 andrespicodella 0.0 0.0 ellipse level 3 polarity 1
+873 rchavezhenao 0.0 0.0 ellipse level 3 polarity 1
+874 hardpaella 0.0 0.0 ellipse level 3 polarity 1
+875 lizeth903berrio 0.0 0.0 ellipse level 3 polarity 1
+876 Lovexpsychology 0.0 0.0 ellipse level 3 polarity 1
+877 LifPiraquive 0.0 0.0 ellipse level 3 polarity 0
+878 guerra_olivar 0.0 0.0 ellipse level 3 polarity 1
+879 AXVallejo 0.0 0.0 ellipse level 3 polarity 1
+880 CamiloMatusO 0.0 0.0 ellipse level 3 polarity 1
+881 Jhonariasrua 0.0 0.0 ellipse level 3 polarity 0
+882 Lorenzgomez97 0.0 0.0 ellipse level 3 polarity 0
+883 juanfranco83 0.0 0.0 ellipse level 3 polarity 1
+884 johan0721 0.0 0.0 ellipse level 3 polarity 1
+885 Nessnio 0.0 0.0 ellipse level 3 polarity 1
+886 nelson_alva 0.0 0.0 ellipse level 3 polarity 1
+887 rinconpolitico 0.0 0.0 ellipse level 3 polarity 1
+888 Zandiegho 0.0 0.0 ellipse level 3 polarity 1
+889 Cindy_Velasquez 0.0 0.0 ellipse level 3 polarity 0
+890 juanito2525 0.0 0.0 ellipse level 3 polarity 1
+891 BaldomeroPessoa 0.0 0.0 ellipse level 3 polarity 1
+892 fdelcastillot 0.0 0.0 ellipse level 3 polarity 1
+893 Andres_ZuluagaM 0.0 0.0 ellipse level 3 polarity 1
+894 PereaFarlin 0.0 0.0 ellipse level 3 polarity 1
+895 julianphenao 0.0 0.0 ellipse level 3 polarity 0
+896 VaneGonzalezMon 0.0 0.0 ellipse level 3 polarity 1
+897 carito25z 0.0 0.0 ellipse level 3 polarity 0
+898 jmariocadavid 0.0 0.0 ellipse level 3 polarity 1
+899 soy_juangica 0.0 0.0 ellipse level 3 polarity 1
+900 Kevinrxn1020 0.0 0.0 ellipse level 3 polarity 0
+901 checholopezm 0.0 0.0 ellipse level 3 polarity 1
+902 CamilaDurango8 0.0 0.0 ellipse level 3 polarity 0
+903 elkinperezvitol 0.0 0.0 ellipse level 3 polarity 1
+904 JJRicov 0.0 0.0 ellipse level 3 polarity 1
+905 Phileas1828 0.0 0.0 ellipse level 3 polarity 1
+906 ismene2 0.0 0.0 ellipse level 3 polarity 1
+907 y4276 0.0 0.0 ellipse level 3 polarity 0
+908 angelaa56255601 0.0 0.0 ellipse level 3 polarity 0
+909 cristiangerley 0.0 0.0 ellipse level 3 polarity 1
+910 lzuluagc 0.0 0.0 ellipse level 3 polarity 1
+911 chonta88 0.0 0.0 ellipse level 3 polarity 0
+912 independienteco 0.0 0.0 ellipse level 3 polarity 1
+913 todosalcentro 0.0 0.0 ellipse level 3 polarity 1
+914 olmedolopezm 0.0 0.0 ellipse level 3 polarity 1
+915 MrLebret91 0.0 0.0 ellipse level 3 polarity 0
+916 kvzauek 0.0 0.0 ellipse level 3 polarity 1
+917 Alejorua 0.0 0.0 ellipse level 3 polarity 1
+918 mario_srz 0.0 0.0 ellipse level 3 polarity 1
+919 jduqueq 0.0 0.0 ellipse level 3 polarity 1
+920 jggh1955 0.0 0.0 ellipse level 3 polarity 1
+921 veroospina 0.0 0.0 ellipse level 3 polarity 0
+922 georgemolos 0.0 0.0 ellipse level 3 polarity 1
+923 laualarc 0.0 0.0 ellipse level 3 polarity 1
+924 jarango_C7 0.0 0.0 ellipse level 3 polarity 0
+925 Meli_Perez_ 0.0 0.0 ellipse level 3 polarity 1
+926 tomsernao 0.0 0.0 ellipse level 3 polarity 0
+927 nathanSalas7 0.0 0.0 ellipse level 3 polarity 1
+928 JotaMarioE 0.0 0.0 ellipse level 3 polarity 0
+929 yimitorres35 0.0 0.0 ellipse level 3 polarity 1
+930 martin_pimiento 0.0 0.0 ellipse level 3 polarity 1
+931 Rivierh 0.0 0.0 ellipse level 3 polarity 1
+932 LauraUpeguiV 0.0 0.0 ellipse level 3 polarity 1
+933 Tolaymaruja 0.0 0.0 ellipse level 3 polarity 1
+934 carloscardonaok 0.0 0.0 ellipse level 3 polarity 0
+935 percyromero 0.0 0.0 ellipse level 3 polarity 1
+936 AndresLondon01 0.0 0.0 ellipse level 3 polarity 1
+937 suescunosorio 0.0 0.0 ellipse level 3 polarity 0
+938 juancarma07 0.0 0.0 ellipse level 3 polarity 1
+939 claumejiaperez 0.0 0.0 ellipse level 3 polarity 1
+940 PaoEspanaPress 0.0 0.0 ellipse level 3 polarity 0
+941 CristianZca 0.0 0.0 ellipse level 3 polarity 1
+942 yobaarciniegas 0.0 0.0 ellipse level 3 polarity 0
+943 alexbedout07 0.0 0.0 ellipse level 3 polarity 1
+944 Anamigago 0.0 0.0 ellipse level 3 polarity 0
+945 carlosmarioF1 0.0 0.0 ellipse level 3 polarity 1
+946 Mr_Km 0.0 0.0 ellipse level 3 polarity 0
+947 Bobodescachala1 0.0 0.0 ellipse level 3 polarity 1
+948 godiedim 0.0 0.0 ellipse level 3 polarity 1
+949 egiraldoc 0.0 0.0 ellipse level 3 polarity 1
+950 tatannarvaez 0.0 0.0 ellipse level 3 polarity 1
+951 VivianPuerta 0.0 0.0 ellipse level 3 polarity 1
+952 tataeinsamkeit 0.0 0.0 ellipse level 3 polarity 0
+953 SandraSalazarM1 0.0 0.0 ellipse level 3 polarity 1
+954 segonzalezfr 0.0 0.0 ellipse level 3 polarity 1
+955 JhonatanQuicen 0.0 0.0 ellipse level 3 polarity 1
+956 GoezTeresita 0.0 0.0 ellipse level 3 polarity 1
+957 fahozu 0.0 0.0 ellipse level 3 polarity 1
+958 juancanouribe 0.0 0.0 ellipse level 3 polarity 1
+959 ninsonalarcon 0.0 0.0 ellipse level 3 polarity 0
+960 jsgb_22 0.0 0.0 ellipse level 3 polarity 0
+961 AnymrodasN 0.0 0.0 ellipse level 3 polarity 1
+962 andresvaina 0.0 0.0 ellipse level 3 polarity 0
+963 hugogam 0.0 0.0 ellipse level 3 polarity 0
+964 simontm2 0.0 0.0 ellipse level 3 polarity 1
+965 alexgiraldo77 0.0 0.0 ellipse level 3 polarity 1
+966 juanpvera19 0.0 0.0 ellipse level 3 polarity 1
+967 JulianJimenez15 0.0 0.0 ellipse level 3 polarity 1
+968 DianaCorreaR 0.0 0.0 ellipse level 3 polarity 1
+969 stivenruiz70 0.0 0.0 ellipse level 3 polarity 1
+970 ferneydario 0.0 0.0 ellipse level 3 polarity 1
+971 laura_mouthon 0.0 0.0 ellipse level 3 polarity 1
+972 mauripaisa 0.0 0.0 ellipse level 3 polarity 0
+973 yepeto545 0.0 0.0 ellipse level 3 polarity 0
+974 AlbertoFelipe5 0.0 0.0 ellipse level 3 polarity 1
+975 JulioHRpo 0.0 0.0 ellipse level 3 polarity 1
+976 Rickyvanegas10 0.0 0.0 ellipse level 3 polarity 1
+977 PensVelez 0.0 0.0 ellipse level 3 polarity 0
+978 Sopadebanano 0.0 0.0 ellipse level 3 polarity 1
+979 jspantojag 0.0 0.0 ellipse level 3 polarity 0
+980 javierlopez2014 0.0 0.0 ellipse level 3 polarity 1
+981 EMARIAFRANCO 0.0 0.0 ellipse level 3 polarity 0
+982 Alejandro9211 0.0 0.0 ellipse level 3 polarity 1
+983 comejen3 0.0 0.0 ellipse level 3 polarity 1
+984 Berrio_Aristi 0.0 0.0 ellipse level 3 polarity 1
+985 LARSSON79 0.0 0.0 ellipse level 3 polarity 0
+986 saracuervo11 0.0 0.0 ellipse level 3 polarity 1
+987 WilmanRua1 0.0 0.0 ellipse level 3 polarity 0
+988 ElianaGomez 0.0 0.0 ellipse level 3 polarity 1
+989 Jorge_Yepes 0.0 0.0 ellipse level 3 polarity 1
+990 Horacio57527276 0.0 0.0 ellipse level 3 polarity 0
+991 leandro_adame 0.0 0.0 ellipse level 3 polarity 0
+992 willis090 0.0 0.0 ellipse level 3 polarity 1
+993 MaoOcampoO 0.0 0.0 ellipse level 3 polarity 0
+994 jgomezfo7 0.0 0.0 ellipse level 3 polarity 0
+995 Sofia_LopezB 0.0 0.0 ellipse level 3 polarity 1
+996 YonaRincon 0.0 0.0 ellipse level 3 polarity 0
+997 Helsivus 0.0 0.0 ellipse level 3 polarity 1
+998 NCocido 0.0 0.0 ellipse level 3 polarity 1
+999 Laberinto_150 0.0 0.0 ellipse level 3 polarity 1
+1000 Benjamn51274161 0.0 0.0 ellipse level 3 polarity 1
+1001 Adrimacatri 0.0 0.0 ellipse level 3 polarity 0
+1002 RafaelPardo 0.0 0.0 ellipse level 3 polarity 0
+1003 GdFrancisco 0.0 0.0 ellipse level 3 polarity 1
+1004 CathyJuvinao 0.0 0.0 ellipse level 3 polarity 1
+1005 agudelo_rafa 0.0 0.0 ellipse level 3 polarity 0
+1006 dielerp3 0.0 0.0 ellipse level 3 polarity 1
+1007 CesarRe73590434 0.0 0.0 ellipse level 3 polarity 1
+1008 MabelLaraNews 0.0 0.0 ellipse level 3 polarity 1
+1009 Mujerastrillo 0.0 0.0 ellipse level 3 polarity 0
+1010 JuanCamiloME 0.0 0.0 ellipse level 3 polarity 0
+1011 F_Alexander09 0.0 0.0 ellipse level 3 polarity 0
+1012 juln_h 0.0 0.0 ellipse level 3 polarity 1
+1013 DianaHCorreaM 0.0 0.0 ellipse level 3 polarity 1
+1014 DacotaQwer445 0.0 0.0 ellipse level 3 polarity 0
+1015 BeatrizRave 0.0 0.0 ellipse level 3 polarity 1
+1016 AlfredoRamosM 0.0 0.0 ellipse level 3 polarity 1
+1017 VictorJCorreaV 0.0 0.0 ellipse level 3 polarity 0
+1018 JuanPabloCalvas 0.0 0.0 ellipse level 3 polarity 1
+1019 estebanjara 0.0 0.0 ellipse level 3 polarity 0
+1020 upbcolombia 0.0 0.0 ellipse level 3 polarity 0
+1021 edosoriolozano 0.0 0.0 ellipse level 3 polarity 1
+1022 MargaritaRepo 0.0 0.0 ellipse level 3 polarity 1
+1023 JuanDiegoTobonL 0.0 0.0 ellipse level 3 polarity 1
+1024 mafezinha86 0.0 0.0 ellipse level 3 polarity 1
+1025 Fierapulgarcito 0.0 0.0 ellipse level 3 polarity 1
+1026 GuerraUribe 0.0 0.0 ellipse level 3 polarity 1
+1027 Ninez_Ya 0.0 0.0 ellipse level 3 polarity 1
+1028 alexismejiae 0.0 0.0 ellipse level 3 polarity 1
+1029 jcvelasquez67 0.0 0.0 ellipse level 3 polarity 0
+1030 CeDemocratico 0.0 0.0 ellipse level 3 polarity 0
+1031 lineadelmedioco 0.0 0.0 ellipse level 3 polarity 1
+1032 CarlosMarioMont 0.0 0.0 ellipse level 3 polarity 0
+1033 Juandiegogj 0.0 0.0 ellipse level 3 polarity 0
+1034 VotoColombiano 0.0 0.0 ellipse level 3 polarity 1
+1035 GersonAlzateG 0.0 0.0 ellipse level 3 polarity 1
+1036 sortegarango 0.0 0.0 ellipse level 3 polarity 1
+1037 LaCiudadVerde 0.0 0.0 ellipse level 3 polarity 0
+1038 JDValde 0.0 0.0 ellipse level 3 polarity 1
+1039 jcvelezuribe 0.0 0.0 ellipse level 3 polarity 0
+1040 Riclargo 0.0 0.0 ellipse level 3 polarity 1
+1041 ekamiak 0.0 0.0 ellipse level 3 polarity 1
+1042 GjDo 0.0 0.0 ellipse level 3 polarity 0
+1043 MafeCarrascal 0.0 0.0 ellipse level 3 polarity 1
+1044 InesML10 0.0 0.0 ellipse level 3 polarity 1
+1045 laujllo02 0.0 0.0 ellipse level 3 polarity 1
+1046 karolinachima 0.0 0.0 ellipse level 3 polarity 0
+1047 RedMasNoticias 0.0 0.0 ellipse level 3 polarity 1
+1048 hernan080 0.0 0.0 ellipse level 3 polarity 0
+1049 cheshire2225 0.0 0.0 ellipse level 3 polarity 1
+1050 jaironeirac 0.0 0.0 ellipse level 3 polarity 1
+1051 sandroibj 0.0 0.0 ellipse level 3 polarity 1
+1052 JUANCAELBROKY 0.0 0.0 ellipse level 3 polarity 1
+1053 luisa_alzatesa 0.0 0.0 ellipse level 3 polarity 1
+1054 josedavidlopera 0.0 0.0 ellipse level 3 polarity 1
+1055 CNE_COLOMBIA 0.0 0.0 ellipse level 3 polarity 1
+1056 pierrealee 0.0 0.0 ellipse level 3 polarity 1
+1057 memohenao 0.0 0.0 ellipse level 3 polarity 1
+1058 piterlondo9 0.0 0.0 ellipse level 3 polarity 1
+1059 sergiobarbosach 0.0 0.0 ellipse level 3 polarity 1
+1060 luismunozmed 0.0 0.0 ellipse level 3 polarity 0
+1061 HerranJairo 0.0 0.0 ellipse level 3 polarity 0
+1062 juliorhomero 0.0 0.0 ellipse level 3 polarity 1
+1063 PROVERDAD96 0.0 0.0 ellipse level 3 polarity 1
+1064 oscargpalaciosm 0.0 0.0 ellipse level 3 polarity 1
+1065 JuangoUribe 0.0 0.0 ellipse level 3 polarity 1
+1066 Ivan_MauricioP 0.0 0.0 ellipse level 3 polarity 1
+1067 AnaCarolinaArb 0.0 0.0 ellipse level 3 polarity 1
+1068 jpabloperezr94 0.0 0.0 ellipse level 3 polarity 1
+1069 diegoromerov 0.0 0.0 ellipse level 3 polarity 1
+1070 jhonjairomira 0.0 0.0 ellipse level 3 polarity 1
+1071 jciragorri 0.0 0.0 ellipse level 3 polarity 1
+1072 velascoluisf 0.0 0.0 ellipse level 3 polarity 1
+1073 fernandoposada_ 0.0 0.0 ellipse level 3 polarity 1
+1074 NestorMoralesC 0.0 0.0 ellipse level 3 polarity 0
+1075 AurelioSuarez 0.0 0.0 ellipse level 3 polarity 0
+1076 pepin1226 0.0 0.0 ellipse level 3 polarity 1
+1077 laorejaroja 0.0 0.0 ellipse level 3 polarity 0
+1078 AlPoniente 0.0 0.0 ellipse level 3 polarity 0
+1079 caliche08 0.0 0.0 ellipse level 3 polarity 1
+1080 FLIP_org 0.0 0.0 ellipse level 3 polarity 1
+1081 moraperiodista 0.0 0.0 ellipse level 3 polarity 1
+1082 RayRestrepo 0.0 0.0 ellipse level 3 polarity 1
+1083 SinproColombia 0.0 0.0 ellipse level 3 polarity 1
+1084 MONYRODRIGUEZOF 0.0 0.0 ellipse level 3 polarity 0
+1085 lucializca 0.0 0.0 ellipse level 3 polarity 1
+1086 LDSAlvaro 0.0 0.0 ellipse level 3 polarity 1
+1087 bajo_lamanga 0.0 0.0 ellipse level 3 polarity 1
+1088 OmarFlorezV 0.0 0.0 ellipse level 3 polarity 1
+1089 Canal1Colombia 0.0 0.0 ellipse level 3 polarity 1
+1090 efrapotter 0.0 0.0 ellipse level 3 polarity 1
+1091 JDaniloGranada 0.0 0.0 ellipse level 3 polarity 1
+1092 ngalvisarias 0.0 0.0 ellipse level 3 polarity 1
+1093 juanmmontoya 0.0 0.0 ellipse level 3 polarity 1
+1094 LaDanielaV11 0.0 0.0 ellipse level 3 polarity 1
+1095 Diegosanabriaz 0.0 0.0 ellipse level 3 polarity 1
+1096 dianama99073268 0.0 0.0 ellipse level 3 polarity 1
+1097 antoniohduque 0.0 0.0 ellipse level 3 polarity 1
+1098 Santiaguinhho 0.0 0.0 ellipse level 3 polarity 1
+1099 reditum 0.0 0.0 ellipse level 3 polarity 1
+1100 ni500 0.0 0.0 ellipse level 3 polarity 1
+1101 munera90 0.0 0.0 ellipse level 3 polarity 0
+1102 riveraguillermo 0.0 0.0 ellipse level 3 polarity 1
+1103 GaboBenavidesB 0.0 0.0 ellipse level 3 polarity 1
+1104 CCSILVA86 0.0 0.0 ellipse level 3 polarity 1
+1105 cmforex1 0.0 0.0 ellipse level 3 polarity 1
+1106 VANE_DFONG 0.0 0.0 ellipse level 3 polarity 1
+1107 ManuelJo_ 0.0 0.0 ellipse level 3 polarity 1
+1108 Abnerzap 0.0 0.0 ellipse level 3 polarity 1
+1109 hathakin23 0.0 0.0 ellipse level 3 polarity 0
+1110 hrodrigs2004 0.0 0.0 ellipse level 3 polarity 0
+1111 JuanesCockG 0.0 0.0 ellipse level 3 polarity 0
+1112 jesusanibale 0.0 0.0 ellipse level 3 polarity 0
+1113 Juan_AlcarazS 0.0 0.0 ellipse level 3 polarity 1
+1114 PadresEHijos9 0.0 0.0 ellipse level 3 polarity 0
+1115 JuanPazRever 0.0 0.0 ellipse level 3 polarity 1
+1116 ChiquitaBrrava 0.0 0.0 ellipse level 3 polarity 1
+1117 medicometro 0.0 0.0 ellipse level 3 polarity 1
+1118 la_pascasia 0.0 0.0 ellipse level 3 polarity 0
+1119 jcardona1428 0.0 0.0 ellipse level 3 polarity 1
+1120 Pauliina_Mejia 0.0 0.0 ellipse level 3 polarity 1
+1121 cgtcarlos 0.0 0.0 ellipse level 3 polarity 1
+1122 CONFIARCoop 0.0 0.0 ellipse level 3 polarity 1
+1123 ArenasYhonny 0.0 0.0 ellipse level 3 polarity 1
+1124 JhonnyAtePe 0.0 0.0 ellipse level 3 polarity 1
+1125 La_network 0.0 0.0 ellipse level 3 polarity 1
+1126 agaviriau 0.0 0.0 ellipse level 3 polarity 1
+1127 AndreiNegus 0.0 0.0 ellipse level 3 polarity 0
+1128 MarinoGiraldo 0.0 0.0 ellipse level 3 polarity 1
+1129 MLLACOUTURE 0.0 0.0 ellipse level 3 polarity 1
+1130 dfmarulanda 0.0 0.0 ellipse level 3 polarity 1
+1131 innpulsa 0.0 0.0 ellipse level 3 polarity 1
+1132 feraurium 0.0 0.0 ellipse level 3 polarity 1
+1133 HectorYgonet 0.0 0.0 ellipse level 3 polarity 1
+1134 Anunposada 0.0 0.0 ellipse level 3 polarity 1
+1135 AndresR29032157 0.0 0.0 ellipse level 3 polarity 1
+1136 jairojaime 0.0 0.0 ellipse level 3 polarity 1
+1137 vivisancheza 0.0 0.0 ellipse level 3 polarity 0
+1138 CarlosDiazL77 0.0 0.0 ellipse level 3 polarity 1
+1139 camunerare 0.0 0.0 ellipse level 3 polarity 0
+1140 Wilsonnegocian1 0.0 0.0 ellipse level 3 polarity 1
+1141 hedaqui1 0.0 0.0 ellipse level 3 polarity 1
+1142 Jason45805197 0.0 0.0 ellipse level 3 polarity 1
+1143 nana93520 0.0 0.0 ellipse level 3 polarity 1
+1144 sebastianfc7 0.0 0.0 ellipse level 3 polarity 1
+1145 jcuartascardona 0.0 0.0 ellipse level 3 polarity 1
+1146 Nelita02237897 0.0 0.0 ellipse level 3 polarity 1
+1147 JPablo200107 0.0 0.0 ellipse level 3 polarity 1
+1148 mamadelcomun 0.0 0.0 ellipse level 3 polarity 1
+1149 QHuboMedallo 0.0 0.0 ellipse level 3 polarity 1
+1150 JuanEGalvis 0.0 0.0 ellipse level 3 polarity 1
+1151 ABC_Economia 0.0 0.0 ellipse level 3 polarity 0
+1152 VictoriaEArang4 0.0 0.0 ellipse level 3 polarity 1
+1153 davjaram 0.0 0.0 ellipse level 3 polarity 0
+1154 Norbey48107285 0.0 0.0 ellipse level 3 polarity 1
+1155 MileRocha24 0.0 0.0 ellipse level 3 polarity 1
+1156 _Luky__ 0.0 0.0 ellipse level 3 polarity 1
+1157 emiro_kastos 0.0 0.0 ellipse level 3 polarity 1
+1158 comisioncreg 0.0 0.0 ellipse level 3 polarity 1
+1159 SindywithS 0.0 0.0 ellipse level 3 polarity 1
+1160 JeffersonUrrut1 0.0 0.0 ellipse level 3 polarity 1
+1161 GabrielJaimeOs8 0.0 0.0 ellipse level 3 polarity 0
+1162 OjelaP 0.0 0.0 ellipse level 3 polarity 1
+1163 TatiTabaresS 0.0 0.0 ellipse level 3 polarity 1
+1164 GermanCarvajal 0.0 0.0 ellipse level 3 polarity 0
+1165 unapeggy99 0.0 0.0 ellipse level 3 polarity 1
+1166 Andergomezc 0.0 0.0 ellipse level 3 polarity 1
+1167 Giresteban 0.0 0.0 ellipse level 3 polarity 1
+1168 jdp297 0.0 0.0 ellipse level 3 polarity 1
+1169 nuevagemela 0.0 0.0 ellipse level 3 polarity 1
+1170 bedoya_nazareth 0.0 0.0 ellipse level 3 polarity 1
+1171 carlitozvaldez 0.0 0.0 ellipse level 3 polarity 1
+1172 MiguelUribeT 0.0 0.0 ellipse level 3 polarity 1
+1173 SamuelRomeroSM 0.0 0.0 ellipse level 3 polarity 1
+1174 DianaArboledaC2 0.0 0.0 ellipse level 3 polarity 1
+1175 AndresRodriCSP 0.0 0.0 ellipse level 3 polarity 1
+1176 1Metodik 0.0 0.0 ellipse level 3 polarity 1
+1177 darrenparches 0.0 0.0 ellipse level 3 polarity 1
+1178 camilochicam 0.0 0.0 ellipse level 3 polarity 1
+1179 MigueCelyS 0.0 0.0 ellipse level 3 polarity 1
+1180 AndresMesaL 0.0 0.0 ellipse level 3 polarity 1
+1181 juanduquega 0.0 0.0 ellipse level 3 polarity 1
+1182 nicozame1960 0.0 0.0 ellipse level 3 polarity 1
+1183 Mariluz14374985 0.0 0.0 ellipse level 3 polarity 0
+1184 sandavila88 0.0 0.0 ellipse level 3 polarity 1
+1185 ArbelaezHector 0.0 0.0 ellipse level 3 polarity 1
+1186 RodolfoCorreaV 0.0 0.0 ellipse level 3 polarity 0
+1187 DespiertaAnt 0.0 0.0 ellipse level 3 polarity 1
+1188 DanTGilbert 0.0 0.0 ellipse level 3 polarity 1
+1189 elmundomedellin 0.0 0.0 ellipse level 3 polarity 0
+1190 puntodevistardb 0.0 0.0 ellipse level 3 polarity 0
+1191 JhonJ_Sarmiento 0.0 0.0 ellipse level 3 polarity 1
+1192 andrescamilogm 0.0 0.0 ellipse level 3 polarity 1
+1193 Dianis2783 0.0 0.0 ellipse level 3 polarity 1
+1194 altereddie 0.0 0.0 ellipse level 3 polarity 0
+1195 gestormundial 0.0 0.0 ellipse level 3 polarity 1
+1196 ElFilo8 0.0 0.0 ellipse level 3 polarity 1
+1197 espinalp07 0.0 0.0 ellipse level 3 polarity 1
+1198 juancaortegas 0.0 0.0 ellipse level 3 polarity 1
+1199 SmitLuis 0.0 0.0 ellipse level 3 polarity 1
+1200 Diagalvis 0.0 0.0 ellipse level 3 polarity 0
+1201 RadioRedCo 0.0 0.0 ellipse level 3 polarity 0
+1202 hectorabadf 0.0 0.0 ellipse level 3 polarity 1
+1203 LuisAlfreRamos 0.0 0.0 ellipse level 3 polarity 1
+1204 Alejandro_SMesa 0.0 0.0 ellipse level 3 polarity 1
+1205 AlbertGrisales 0.0 0.0 ellipse level 3 polarity 0
+1206 beortizu 0.0 0.0 ellipse level 3 polarity 0
+1207 lilianacs93 0.0 0.0 ellipse level 3 polarity 1
+1208 Santiago_SernaG 0.0 0.0 ellipse level 3 polarity 1
+1209 GilbertoTobonS 0.0 0.0 ellipse level 3 polarity 1
+1210 noscogiolanoche 0.0 0.0 ellipse level 3 polarity 1
+1211 MiltonQuinonesC 0.0 0.0 ellipse level 3 polarity 1
+1212 _aicardi_ 0.0 0.0 ellipse level 3 polarity 1
+1213 Andres_Moreno02 0.0 0.0 ellipse level 3 polarity 0
+1214 Juanferp2 0.0 0.0 ellipse level 3 polarity 1
+1215 juanscabal 0.0 0.0 ellipse level 3 polarity 1
+1216 RobertFarah_ 0.0 0.0 ellipse level 3 polarity 1
+1217 deysonpereamore 0.0 0.0 ellipse level 3 polarity 1
+*arcs
+1 2 1.0
+1 3 1.0
+1 4 1.0
+1 5 1.0
+1 6 1.0
+1 7 1.0
+1 8 1.0
+1 9 1.0
+1 10 1.0
+1 11 1.0
+1 12 1.0
+1 13 1.0
+1 14 1.0
+1 15 1.0
+1 16 1.0
+1 17 1.0
+9 18 1.0
+9 19 1.0
+9 20 1.0
+9 21 1.0
+9 22 1.0
+9 23 1.0
+9 24 1.0
+9 25 1.0
+9 26 1.0
+9 27 1.0
+9 28 1.0
+9 29 1.0
+9 30 1.0
+9 31 1.0
+9 32 1.0
+9 33 1.0
+9 10 1.0
+9 34 1.0
+9 35 1.0
+9 36 1.0
+9 37 1.0
+9 38 1.0
+9 39 1.0
+9 40 1.0
+9 41 1.0
+9 42 1.0
+9 43 1.0
+9 44 1.0
+9 45 1.0
+9 46 1.0
+9 47 1.0
+9 48 1.0
+9 9 1.0
+9 49 1.0
+9 50 1.0
+9 51 1.0
+9 52 1.0
+9 53 1.0
+9 54 1.0
+9 55 1.0
+9 56 1.0
+9 57 1.0
+9 58 1.0
+9 59 1.0
+9 60 1.0
+9 61 1.0
+9 62 1.0
+9 63 1.0
+9 6 1.0
+9 64 1.0
+9 65 1.0
+9 66 1.0
+9 67 1.0
+9 68 1.0
+9 14 1.0
+9 69 1.0
+9 70 1.0
+9 71 1.0
+9 72 1.0
+9 73 1.0
+9 74 1.0
+9 75 1.0
+9 76 1.0
+9 77 1.0
+9 78 1.0
+9 79 1.0
+9 80 1.0
+9 81 1.0
+9 82 1.0
+9 83 1.0
+9 84 1.0
+9 85 1.0
+9 86 1.0
+9 87 1.0
+9 88 1.0
+9 89 1.0
+9 90 1.0
+9 91 1.0
+9 92 1.0
+9 93 1.0
+9 94 1.0
+9 95 1.0
+9 96 1.0
+9 97 1.0
+9 98 1.0
+9 99 1.0
+9 100 1.0
+9 101 1.0
+9 102 1.0
+9 103 1.0
+9 104 1.0
+9 105 1.0
+9 106 1.0
+9 107 1.0
+9 108 1.0
+9 109 1.0
+9 110 1.0
+9 111 1.0
+9 112 1.0
+9 113 1.0
+9 114 1.0
+9 115 1.0
+9 116 1.0
+9 117 1.0
+9 118 1.0
+9 119 1.0
+9 120 1.0
+9 121 1.0
+9 122 1.0
+9 123 1.0
+9 124 1.0
+9 125 1.0
+9 126 1.0
+9 127 1.0
+9 128 1.0
+9 129 1.0
+9 130 1.0
+9 131 1.0
+9 132 1.0
+9 133 1.0
+9 134 1.0
+9 135 1.0
+9 136 1.0
+9 137 1.0
+9 138 1.0
+9 139 1.0
+9 140 1.0
+9 141 1.0
+9 142 1.0
+9 143 1.0
+9 144 1.0
+9 145 1.0
+9 146 1.0
+9 147 1.0
+9 148 1.0
+9 149 1.0
+9 150 1.0
+9 151 1.0
+9 152 1.0
+9 153 1.0
+9 154 1.0
+9 155 1.0
+9 156 1.0
+9 157 1.0
+9 158 1.0
+9 159 1.0
+9 160 1.0
+9 161 1.0
+9 162 1.0
+9 163 1.0
+9 164 1.0
+9 165 1.0
+9 166 1.0
+9 167 1.0
+9 168 1.0
+9 169 1.0
+9 170 1.0
+9 171 1.0
+9 172 1.0
+9 173 1.0
+9 174 1.0
+9 175 1.0
+9 176 1.0
+9 177 1.0
+9 178 1.0
+9 179 1.0
+9 180 1.0
+9 181 1.0
+9 182 1.0
+9 183 1.0
+9 184 1.0
+9 185 1.0
+9 186 1.0
+9 187 1.0
+9 188 1.0
+9 189 1.0
+9 190 1.0
+9 191 1.0
+9 192 1.0
+9 193 1.0
+9 194 1.0
+9 195 1.0
+9 196 1.0
+9 197 1.0
+9 198 1.0
+9 199 1.0
+9 200 1.0
+9 201 1.0
+9 202 1.0
+9 203 1.0
+9 204 1.0
+9 205 1.0
+9 206 1.0
+9 207 1.0
+9 208 1.0
+9 11 1.0
+9 209 1.0
+9 210 1.0
+9 211 1.0
+9 212 1.0
+9 213 1.0
+9 214 1.0
+9 215 1.0
+9 216 1.0
+9 217 1.0
+9 218 1.0
+9 219 1.0
+9 220 1.0
+9 221 1.0
+9 222 1.0
+9 223 1.0
+9 224 1.0
+9 225 1.0
+9 226 1.0
+9 227 1.0
+9 228 1.0
+9 229 1.0
+9 230 1.0
+9 231 1.0
+9 232 1.0
+9 233 1.0
+9 234 1.0
+9 235 1.0
+9 236 1.0
+9 237 1.0
+9 238 1.0
+11 407 1.0
+11 499 1.0
+11 288 1.0
+11 265 1.0
+11 294 1.0
+11 242 1.0
+11 500 1.0
+11 11 1.0
+11 258 1.0
+11 501 1.0
+11 13 1.0
+11 502 1.0
+11 291 1.0
+11 248 1.0
+11 503 1.0
+11 504 1.0
+11 358 1.0
+11 417 1.0
+11 251 1.0
+11 375 1.0
+11 505 1.0
+11 350 1.0
+11 244 1.0
+11 312 1.0
+11 239 1.0
+11 314 1.0
+11 324 1.0
+11 506 1.0
+11 507 1.0
+11 508 1.0
+11 337 1.0
+11 509 1.0
+11 357 1.0
+11 510 1.0
+11 511 1.0
+11 512 1.0
+11 513 1.0
+11 514 1.0
+11 290 1.0
+11 515 1.0
+11 313 1.0
+11 326 1.0
+11 516 1.0
+11 517 1.0
+11 518 1.0
+11 339 1.0
+11 519 1.0
+11 520 1.0
+11 521 1.0
+11 522 1.0
+11 129 1.0
+11 523 1.0
+11 240 1.0
+11 524 1.0
+11 525 1.0
+11 526 1.0
+11 527 1.0
+11 528 1.0
+11 401 1.0
+11 19 1.0
+11 420 1.0
+11 292 1.0
+11 529 1.0
+11 530 1.0
+11 531 1.0
+11 106 1.0
+11 532 1.0
+11 328 1.0
+11 329 1.0
+11 496 1.0
+11 308 1.0
+11 533 1.0
+11 534 1.0
+11 535 1.0
+11 536 1.0
+11 537 1.0
+11 538 1.0
+11 539 1.0
+11 540 1.0
+11 541 1.0
+11 254 1.0
+11 353 1.0
+11 369 1.0
+11 289 1.0
+11 542 1.0
+11 543 1.0
+11 544 1.0
+11 545 1.0
+11 361 1.0
+11 546 1.0
+11 547 1.0
+11 548 1.0
+11 549 1.0
+11 297 1.0
+11 550 1.0
+11 551 1.0
+11 552 1.0
+11 553 1.0
+11 554 1.0
+11 246 1.0
+11 555 1.0
+11 556 1.0
+11 557 1.0
+11 558 1.0
+11 559 1.0
+11 560 1.0
+11 561 1.0
+11 562 1.0
+11 563 1.0
+11 564 1.0
+11 565 1.0
+11 566 1.0
+11 32 1.0
+11 567 1.0
+11 568 1.0
+11 569 1.0
+11 570 1.0
+11 571 1.0
+11 572 1.0
+11 573 1.0
+11 574 1.0
+11 575 1.0
+11 576 1.0
+11 344 1.0
+11 577 1.0
+11 578 1.0
+11 579 1.0
+11 376 1.0
+11 321 1.0
+11 580 1.0
+11 303 1.0
+11 581 1.0
+11 582 1.0
+11 583 1.0
+11 584 1.0
+11 585 1.0
+11 586 1.0
+11 587 1.0
+11 323 1.0
+11 588 1.0
+11 589 1.0
+11 295 1.0
+11 590 1.0
+11 591 1.0
+11 592 1.0
+11 593 1.0
+11 594 1.0
+11 595 1.0
+11 428 1.0
+11 596 1.0
+11 597 1.0
+11 598 1.0
+11 599 1.0
+11 600 1.0
+11 601 1.0
+11 10 1.0
+11 602 1.0
+11 603 1.0
+11 604 1.0
+11 605 1.0
+11 21 1.0
+11 606 1.0
+11 607 1.0
+11 608 1.0
+11 609 1.0
+11 610 1.0
+11 611 1.0
+11 612 1.0
+11 613 1.0
+11 614 1.0
+11 615 1.0
+11 616 1.0
+11 617 1.0
+11 618 1.0
+11 275 1.0
+11 619 1.0
+11 620 1.0
+11 621 1.0
+11 622 1.0
+11 623 1.0
+11 359 1.0
+11 340 1.0
+11 262 1.0
+11 126 1.0
+11 624 1.0
+11 268 1.0
+11 625 1.0
+11 626 1.0
+11 627 1.0
+11 628 1.0
+11 629 1.0
+11 630 1.0
+11 125 1.0
+11 348 1.0
+11 631 1.0
+11 632 1.0
+11 633 1.0
+11 634 1.0
+11 635 1.0
+11 636 1.0
+11 637 1.0
+11 332 1.0
+11 638 1.0
+11 639 1.0
+11 298 1.0
+11 640 1.0
+11 12 1.0
+11 641 1.0
+11 642 1.0
+11 259 1.0
+11 643 1.0
+11 419 1.0
+11 644 1.0
+11 645 1.0
+11 646 1.0
+11 647 1.0
+11 648 1.0
+11 649 1.0
+11 650 1.0
+11 651 1.0
+11 652 1.0
+11 653 1.0
+11 654 1.0
+11 655 1.0
+11 656 1.0
+11 657 1.0
+11 658 1.0
+11 659 1.0
+11 660 1.0
+11 661 1.0
+11 662 1.0
+11 663 1.0
+11 664 1.0
+11 665 1.0
+11 666 1.0
+11 276 1.0
+11 667 1.0
+11 668 1.0
+11 669 1.0
+11 670 1.0
+11 671 1.0
+11 672 1.0
+11 673 1.0
+11 674 1.0
+11 675 1.0
+11 676 1.0
+11 677 1.0
+11 678 1.0
+11 679 1.0
+11 680 1.0
+11 681 1.0
+11 682 1.0
+11 683 1.0
+11 684 1.0
+11 685 1.0
+11 686 1.0
+11 687 1.0
+11 688 1.0
+11 689 1.0
+11 690 1.0
+11 691 1.0
+11 692 1.0
+11 693 1.0
+11 694 1.0
+11 195 1.0
+11 410 1.0
+11 695 1.0
+11 696 1.0
+11 697 1.0
+11 698 1.0
+11 699 1.0
+11 477 1.0
+11 700 1.0
+11 701 1.0
+11 702 1.0
+11 703 1.0
+11 704 1.0
+11 705 1.0
+11 706 1.0
+11 707 1.0
+11 708 1.0
+11 709 1.0
+11 710 1.0
+11 711 1.0
+11 712 1.0
+11 713 1.0
+11 714 1.0
+11 715 1.0
+11 278 1.0
+11 716 1.0
+11 717 1.0
+11 718 1.0
+11 719 1.0
+11 720 1.0
+11 721 1.0
+11 722 1.0
+11 450 1.0
+11 723 1.0
+11 389 1.0
+11 724 1.0
+11 113 1.0
+11 725 1.0
+11 726 1.0
+11 727 1.0
+11 728 1.0
+11 729 1.0
+11 730 1.0
+11 731 1.0
+11 732 1.0
+11 497 1.0
+11 733 1.0
+11 734 1.0
+11 343 1.0
+11 134 1.0
+11 735 1.0
+11 736 1.0
+11 737 1.0
+11 738 1.0
+11 739 1.0
+11 740 1.0
+11 741 1.0
+11 742 1.0
+11 743 1.0
+11 744 1.0
+11 131 1.0
+11 745 1.0
+11 746 1.0
+11 364 1.0
+11 747 1.0
+11 748 1.0
+11 41 1.0
+11 749 1.0
+11 750 1.0
+11 241 1.0
+11 751 1.0
+11 752 1.0
+11 753 1.0
+11 754 1.0
+11 755 1.0
+11 756 1.0
+11 757 1.0
+11 758 1.0
+11 759 1.0
+11 760 1.0
+11 761 1.0
+11 762 1.0
+11 763 1.0
+11 764 1.0
+11 765 1.0
+11 766 1.0
+11 767 1.0
+11 768 1.0
+11 322 1.0
+11 255 1.0
+11 769 1.0
+11 34 1.0
+11 304 1.0
+11 252 1.0
+11 770 1.0
+11 771 1.0
+11 772 1.0
+11 773 1.0
+11 333 1.0
+11 774 1.0
+11 775 1.0
+11 776 1.0
+11 777 1.0
+11 778 1.0
+11 779 1.0
+11 780 1.0
+11 781 1.0
+11 782 1.0
+11 783 1.0
+11 784 1.0
+11 785 1.0
+11 786 1.0
+11 787 1.0
+11 788 1.0
+11 789 1.0
+11 118 1.0
+11 790 1.0
+11 791 1.0
+11 279 1.0
+11 792 1.0
+11 793 1.0
+11 794 1.0
+11 795 1.0
+11 796 1.0
+11 797 1.0
+11 798 1.0
+11 799 1.0
+11 800 1.0
+11 801 1.0
+11 802 1.0
+11 803 1.0
+11 804 1.0
+11 805 1.0
+11 806 1.0
+11 3 1.0
+11 807 1.0
+11 267 1.0
+11 273 1.0
+11 808 1.0
+11 809 1.0
+11 810 1.0
+11 811 1.0
+11 812 1.0
+11 813 1.0
+11 814 1.0
+11 277 1.0
+11 815 1.0
+11 816 1.0
+11 817 1.0
+11 818 1.0
+11 819 1.0
+11 820 1.0
+11 821 1.0
+11 822 1.0
+11 823 1.0
+11 824 1.0
+11 825 1.0
+11 826 1.0
+11 827 1.0
+11 828 1.0
+11 829 1.0
+11 830 1.0
+11 831 1.0
+11 832 1.0
+11 247 1.0
+11 833 1.0
+11 834 1.0
+11 835 1.0
+11 836 1.0
+11 837 1.0
+11 838 1.0
+11 839 1.0
+11 840 1.0
+11 841 1.0
+11 842 1.0
+11 843 1.0
+11 844 1.0
+11 845 1.0
+11 846 1.0
+11 847 1.0
+11 848 1.0
+11 849 1.0
+11 850 1.0
+11 851 1.0
+11 852 1.0
+11 853 1.0
+11 854 1.0
+11 855 1.0
+11 856 1.0
+11 857 1.0
+11 858 1.0
+11 859 1.0
+11 860 1.0
+11 861 1.0
+11 862 1.0
+11 863 1.0
+11 17 1.0
+11 864 1.0
+11 865 1.0
+11 866 1.0
+11 867 1.0
+11 35 1.0
+11 868 1.0
+11 869 1.0
+11 870 1.0
+11 871 1.0
+11 872 1.0
+11 873 1.0
+11 874 1.0
+11 875 1.0
+11 876 1.0
+11 877 1.0
+11 878 1.0
+11 879 1.0
+11 880 1.0
+11 881 1.0
+11 882 1.0
+11 883 1.0
+11 884 1.0
+11 885 1.0
+11 886 1.0
+11 887 1.0
+11 888 1.0
+11 889 1.0
+11 890 1.0
+11 891 1.0
+11 892 1.0
+11 893 1.0
+11 894 1.0
+11 895 1.0
+11 896 1.0
+11 897 1.0
+11 898 1.0
+11 899 1.0
+11 900 1.0
+11 901 1.0
+11 902 1.0
+11 903 1.0
+11 904 1.0
+11 905 1.0
+11 906 1.0
+11 907 1.0
+11 908 1.0
+11 909 1.0
+11 910 1.0
+11 911 1.0
+11 912 1.0
+11 913 1.0
+11 914 1.0
+11 915 1.0
+11 916 1.0
+11 917 1.0
+11 918 1.0
+11 919 1.0
+11 920 1.0
+11 921 1.0
+11 922 1.0
+11 923 1.0
+11 924 1.0
+11 925 1.0
+11 926 1.0
+11 927 1.0
+11 928 1.0
+11 929 1.0
+11 930 1.0
+11 931 1.0
+11 932 1.0
+11 933 1.0
+11 934 1.0
+11 935 1.0
+11 936 1.0
+11 937 1.0
+11 938 1.0
+11 939 1.0
+11 940 1.0
+11 941 1.0
+11 942 1.0
+11 943 1.0
+11 944 1.0
+11 945 1.0
+11 946 1.0
+11 947 1.0
+11 948 1.0
+11 949 1.0
+11 950 1.0
+11 951 1.0
+11 952 1.0
+11 953 1.0
+11 954 1.0
+11 955 1.0
+11 956 1.0
+11 957 1.0
+11 958 1.0
+11 959 1.0
+11 960 1.0
+11 961 1.0
+11 962 1.0
+11 963 1.0
+11 964 1.0
+11 965 1.0
+11 966 1.0
+11 967 1.0
+11 968 1.0
+11 969 1.0
+11 970 1.0
+11 971 1.0
+11 972 1.0
+11 973 1.0
+11 974 1.0
+11 975 1.0
+11 976 1.0
+11 977 1.0
+11 978 1.0
+11 979 1.0
+11 980 1.0
+11 981 1.0
+11 430 1.0
+11 982 1.0
+11 983 1.0
+11 984 1.0
+11 985 1.0
+11 986 1.0
+11 987 1.0
+11 988 1.0
+11 989 1.0
+11 990 1.0
+11 991 1.0
+11 992 1.0
+11 993 1.0
+11 994 1.0
+11 995 1.0
+11 996 1.0
+11 997 1.0
+11 998 1.0
+11 999 1.0
+11 1000 1.0
+11 1001 1.0
+11 156 1.0
+11 1002 1.0
+11 92 1.0
+11 387 1.0
+11 1003 1.0
+11 1004 1.0
+11 1005 1.0
+11 1006 1.0
+11 1007 1.0
+11 1008 1.0
+11 1009 1.0
+11 1010 1.0
+11 1011 1.0
+11 1012 1.0
+11 1013 1.0
+11 1014 1.0
+11 495 1.0
+11 1015 1.0
+11 1016 1.0
+11 1017 1.0
+11 1018 1.0
+11 1019 1.0
+11 1020 1.0
+11 1021 1.0
+11 1022 1.0
+11 1023 1.0
+11 1024 1.0
+11 1025 1.0
+11 1026 1.0
+11 1027 1.0
+11 1028 1.0
+11 1029 1.0
+11 1030 1.0
+11 1031 1.0
+11 1032 1.0
+11 1033 1.0
+11 1034 1.0
+11 1035 1.0
+11 1036 1.0
+11 1037 1.0
+11 1038 1.0
+11 1039 1.0
+11 1040 1.0
+11 1041 1.0
+11 1042 1.0
+11 1043 1.0
+11 1044 1.0
+11 1045 1.0
+11 90 1.0
+11 1046 1.0
+11 1047 1.0
+11 1048 1.0
+11 1049 1.0
+11 1050 1.0
+11 1051 1.0
+11 1052 1.0
+11 1053 1.0
+11 1054 1.0
+11 1055 1.0
+11 1056 1.0
+11 1057 1.0
+11 1058 1.0
+11 1059 1.0
+11 1060 1.0
+11 1061 1.0
+11 1062 1.0
+11 1063 1.0
+11 1064 1.0
+11 1065 1.0
+11 1066 1.0
+11 1067 1.0
+11 1068 1.0
+11 1069 1.0
+11 1070 1.0
+11 1071 1.0
+11 1072 1.0
+11 1073 1.0
+11 1074 1.0
+11 1075 1.0
+11 1076 1.0
+11 1077 1.0
+11 1078 1.0
+11 1079 1.0
+11 28 1.0
+11 1080 1.0
+11 1081 1.0
+11 1082 1.0
+11 1083 1.0
+11 1084 1.0
+11 1085 1.0
+11 1086 1.0
+11 1087 1.0
+11 1088 1.0
+11 1089 1.0
+11 1090 1.0
+11 1091 1.0
+11 1092 1.0
+11 1093 1.0
+11 1094 1.0
+11 1095 1.0
+11 1096 1.0
+11 1097 1.0
+11 1098 1.0
+11 1099 1.0
+11 1100 1.0
+11 1101 1.0
+11 1102 1.0
+11 1103 1.0
+11 1104 1.0
+11 1105 1.0
+11 1106 1.0
+11 1107 1.0
+11 1108 1.0
+11 1109 1.0
+11 1110 1.0
+11 1111 1.0
+11 1112 1.0
+11 1113 1.0
+11 1114 1.0
+11 1115 1.0
+11 1116 1.0
+11 1117 1.0
+11 1118 1.0
+11 1119 1.0
+11 1120 1.0
+11 1121 1.0
+11 1122 1.0
+11 1123 1.0
+11 1124 1.0
+11 1125 1.0
+11 1126 1.0
+11 1127 1.0
+11 1128 1.0
+11 1129 1.0
+11 1130 1.0
+11 1131 1.0
+11 138 1.0
+11 1132 1.0
+11 1133 1.0
+11 1134 1.0
+11 1135 1.0
+11 1136 1.0
+11 1137 1.0
+11 1138 1.0
+11 1139 1.0
+11 1140 1.0
+11 1141 1.0
+11 1142 1.0
+11 1143 1.0
+11 1144 1.0
+11 1145 1.0
+11 1146 1.0
+11 1147 1.0
+11 1148 1.0
+11 1149 1.0
+11 1150 1.0
+11 1151 1.0
+11 1152 1.0
+11 1153 1.0
+11 1154 1.0
+11 1155 1.0
+11 1156 1.0
+11 1157 1.0
+11 1158 1.0
+11 1159 1.0
+11 1160 1.0
+11 1161 1.0
+11 1162 1.0
+11 1163 1.0
+11 1164 1.0
+11 1165 1.0
+11 1166 1.0
+11 1167 1.0
+11 1168 1.0
+11 1169 1.0
+11 1170 1.0
+11 1171 1.0
+11 1172 1.0
+11 1173 1.0
+11 1174 1.0
+11 1175 1.0
+11 1176 1.0
+11 1177 1.0
+11 1178 1.0
+11 1179 1.0
+11 1180 1.0
+11 1181 1.0
+11 412 1.0
+11 1182 1.0
+11 1183 1.0
+11 1184 1.0
+11 1185 1.0
+11 1186 1.0
+11 1187 1.0
+11 1188 1.0
+11 1189 1.0
+11 1190 1.0
+11 1191 1.0
+11 1192 1.0
+11 1193 1.0
+11 1194 1.0
+11 1195 1.0
+11 1196 1.0
+11 1197 1.0
+11 1198 1.0
+11 1199 1.0
+11 1200 1.0
+11 1201 1.0
+11 1202 1.0
+11 1203 1.0
+11 1204 1.0
+11 1205 1.0
+11 1206 1.0
+11 1207 1.0
+11 1208 1.0
+11 1209 1.0
+11 1210 1.0
+11 1211 1.0
+11 1212 1.0
+11 1213 1.0
+11 1214 1.0
+11 1215 1.0
+11 1216 1.0
+11 1217 1.0
+239 240 1.0
+239 13 1.0
+239 241 1.0
+239 242 1.0
+239 243 1.0
+239 244 1.0
+239 11 1.0
+239 245 1.0
+239 246 1.0
+239 247 1.0
+239 248 1.0
+239 249 1.0
+239 250 1.0
+239 251 1.0
+239 252 1.0
+239 253 1.0
+239 254 1.0
+239 138 1.0
+239 255 1.0
+239 256 1.0
+239 257 1.0
+239 239 1.0
+239 258 1.0
+239 259 1.0
+239 260 1.0
+239 261 1.0
+239 262 1.0
+239 263 1.0
+239 264 1.0
+239 126 1.0
+239 265 1.0
+239 266 1.0
+239 267 1.0
+239 268 1.0
+239 269 1.0
+239 270 1.0
+239 271 1.0
+239 272 1.0
+239 273 1.0
+239 274 1.0
+239 275 1.0
+239 276 1.0
+239 277 1.0
+239 278 1.0
+239 279 1.0
+239 280 1.0
+239 281 1.0
+239 282 1.0
+239 283 1.0
+239 284 1.0
+239 285 1.0
+239 216 1.0
+239 286 1.0
+239 287 1.0
+239 288 1.0
+239 289 1.0
+239 290 1.0
+239 291 1.0
+239 292 1.0
+239 293 1.0
+239 294 1.0
+239 295 1.0
+239 296 1.0
+239 297 1.0
+239 298 1.0
+239 299 1.0
+239 300 1.0
+239 301 1.0
+239 302 1.0
+239 303 1.0
+239 304 1.0
+239 305 1.0
+239 306 1.0
+239 307 1.0
+239 308 1.0
+239 309 1.0
+239 310 1.0
+239 311 1.0
+239 312 1.0
+239 313 1.0
+239 314 1.0
+239 315 1.0
+239 316 1.0
+239 317 1.0
+239 318 1.0
+239 319 1.0
+239 320 1.0
+239 321 1.0
+239 322 1.0
+239 323 1.0
+239 324 1.0
+239 325 1.0
+239 326 1.0
+239 327 1.0
+239 328 1.0
+239 329 1.0
+239 330 1.0
+239 331 1.0
+239 332 1.0
+239 333 1.0
+239 334 1.0
+239 335 1.0
+239 336 1.0
+239 337 1.0
+239 338 1.0
+239 339 1.0
+239 340 1.0
+239 341 1.0
+239 342 1.0
+239 343 1.0
+239 344 1.0
+239 113 1.0
+239 345 1.0
+239 346 1.0
+239 347 1.0
+239 348 1.0
+239 349 1.0
+239 106 1.0
+239 350 1.0
+239 125 1.0
+239 351 1.0
+239 352 1.0
+239 353 1.0
+239 354 1.0
+239 355 1.0
+239 356 1.0
+239 357 1.0
+239 358 1.0
+239 359 1.0
+239 360 1.0
+239 361 1.0
+239 362 1.0
+239 363 1.0
+239 364 1.0
+239 365 1.0
+239 366 1.0
+239 367 1.0
+239 368 1.0
+239 369 1.0
+239 370 1.0
+239 371 1.0
+239 372 1.0
+239 373 1.0
+239 374 1.0
+239 375 1.0
+239 376 1.0
+239 377 1.0
+239 378 1.0
+239 379 1.0
+239 380 1.0
+239 381 1.0
+239 382 1.0
+239 383 1.0
+239 384 1.0
+239 385 1.0
+239 386 1.0
+239 387 1.0
+239 388 1.0
+239 389 1.0
+239 390 1.0
+239 391 1.0
+239 392 1.0
+239 393 1.0
+239 394 1.0
+239 395 1.0
+239 396 1.0
+239 397 1.0
+239 398 1.0
+239 399 1.0
+239 400 1.0
+239 401 1.0
+239 402 1.0
+239 403 1.0
+239 404 1.0
+239 12 1.0
+239 405 1.0
+239 406 1.0
+239 407 1.0
+239 408 1.0
+239 409 1.0
+239 410 1.0
+239 411 1.0
+239 412 1.0
+239 413 1.0
+239 414 1.0
+239 415 1.0
+239 416 1.0
+239 417 1.0
+239 418 1.0
+239 419 1.0
+239 420 1.0
+239 421 1.0
+239 19 1.0
+239 422 1.0
+239 423 1.0
+239 424 1.0
+239 425 1.0
+239 426 1.0
+239 427 1.0
+239 428 1.0
+239 131 1.0
+239 429 1.0
+239 430 1.0
+239 431 1.0
+239 432 1.0
+239 433 1.0
+239 434 1.0
+239 435 1.0
+239 436 1.0
+239 437 1.0
+239 438 1.0
+239 439 1.0
+239 440 1.0
+239 441 1.0
+239 442 1.0
+239 443 1.0
+239 444 1.0
+239 445 1.0
+239 446 1.0
+239 447 1.0
+239 448 1.0
+239 449 1.0
+239 450 1.0
+239 451 1.0
+239 452 1.0
+239 453 1.0
+239 454 1.0
+239 455 1.0
+239 456 1.0
+239 457 1.0
+239 458 1.0
+239 459 1.0
+239 460 1.0
+239 461 1.0
+239 462 1.0
+239 463 1.0
+239 464 1.0
+239 465 1.0
+239 466 1.0
+239 467 1.0
+239 468 1.0
+239 469 1.0
+239 470 1.0
+239 471 1.0
+239 472 1.0
+239 473 1.0
+239 474 1.0
+239 475 1.0
+239 476 1.0
+239 477 1.0
+239 478 1.0
+239 479 1.0
+239 480 1.0
+239 481 1.0
+239 482 1.0
+239 483 1.0
+239 484 1.0
+239 485 1.0
+239 486 1.0
+239 487 1.0
+239 488 1.0
+239 489 1.0
+239 110 1.0
+239 490 1.0
+239 491 1.0
+239 492 1.0
+239 493 1.0
+239 494 1.0
+239 495 1.0
+239 496 1.0
+239 497 1.0
+239 21 1.0
+239 498 1.0

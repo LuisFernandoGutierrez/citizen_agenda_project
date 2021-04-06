@@ -1,0 +1,709 @@
+*vertices 354
+1 luisfer81567047 0.0 0.0 ellipse level 2
+2 aislamiento 0.0 0.0 ellipse level 2
+3 Contexto75 0.0 0.0 ellipse level 2
+4 Lanet2019 0.0 0.0 ellipse level 2
+5 gabrielmoreno10 0.0 0.0 ellipse level 2
+6 Anarquia 0.0 0.0 ellipse level 2
+7 SEPLN2020 0.0 0.0 ellipse level 2
+8 NLProc 0.0 0.0 ellipse level 2
+9 MentirasDeMonsalveSon 0.0 0.0 ellipse level 2
+10 linguistics 0.0 0.0 ellipse level 2
+11 Twitter 0.0 0.0 ellipse level 2
+12 abralin 0.0 0.0 ellipse level 2
+13 Semana 0.0 0.0 ellipse level 2
+14 PostDoctoradoEsUnTrabajo 0.0 0.0 ellipse level 2
+15 NLP 0.0 0.0 ellipse level 2
+16 IA 0.0 0.0 ellipse level 2
+17 SNA 0.0 0.0 ellipse level 2
+18 Pandas 0.0 0.0 ellipse level 2
+19 Cuda 0.0 0.0 ellipse level 2
+20 acl2020nlp 0.0 0.0 ellipse level 2
+21 AllenNLP 0.0 0.0 ellipse level 2
+22 elasticsearch 0.0 0.0 ellipse level 2
+23 socialnetwork 0.0 0.0 ellipse level 2
+24 Embusters 0.0 0.0 ellipse level 2
+25 CacharreandoDatos 0.0 0.0 ellipse level 2
+26 mundialdefilosofos 0.0 0.0 ellipse level 2
+27 linguistic 0.0 0.0 ellipse level 2
+28 nlp 0.0 0.0 ellipse level 2
+29 digitalmedia 0.0 0.0 ellipse level 2
+30 EduardoRueda 0.0 0.0 ellipse level 2
+31 DivaDeEscasosRecursos 0.0 0.0 ellipse level 2
+32 machinelearning 0.0 0.0 ellipse level 2
+33 clef2020 0.0 0.0 ellipse level 2
+34 MachineLearning 0.0 0.0 ellipse level 2
+35 Linguistic 0.0 0.0 ellipse level 2
+36 immunity 0.0 0.0 ellipse level 2
+37 democracy 0.0 0.0 ellipse level 2
+38 elections 0.0 0.0 ellipse level 2
+39 coronavirus 0.0 0.0 ellipse level 2
+40 Python 0.0 0.0 ellipse level 2
+41 ML 0.0 0.0 ellipse level 2
+42 PutoJuegoDeMesa 0.0 0.0 ellipse level 2
+43 innovadores 0.0 0.0 ellipse level 2
+44 prototype 0.0 0.0 ellipse level 2
+45 JavaScript 0.0 0.0 ellipse level 2
+46 ok 0.0 0.0 ellipse level 2
+47 milgram 0.0 0.0 ellipse level 2
+48 UnaNotaPorUnTweet 0.0 0.0 ellipse level 2
+49 PUJ_Analytics 0.0 0.0 ellipse level 2
+50 ElMedico 0.0 0.0 ellipse level 2
+51 FelizDomingo 0.0 0.0 ellipse level 2
+52 AnimoTwitteros 0.0 0.0 ellipse level 2
+53 FuerzaPUJ 0.0 0.0 ellipse level 2
+54 TierradeZombies 0.0 0.0 ellipse level 2
+55 UmbrellaCorporation 0.0 0.0 ellipse level 2
+56 DataScientist 0.0 0.0 ellipse level 2
+57 FelizMartes 0.0 0.0 ellipse level 2
+58 abdsc 0.0 0.0 ellipse level 2
+59 BigData 0.0 0.0 ellipse level 2
+60 DataScience 0.0 0.0 ellipse level 2
+61 Colombia 0.0 0.0 ellipse level 2
+62 Mathematics 0.0 0.0 ellipse level 2
+63 DeepLearning 0.0 0.0 ellipse level 2
+64 InteligenciaArtificial 0.0 0.0 ellipse level 2
+65 Fintechgracion 0.0 0.0 ellipse level 2
+66 Navidad 0.0 0.0 ellipse level 2
+67 Lumon 0.0 0.0 ellipse level 2
+68 ParoNacional 0.0 0.0 ellipse level 2
+69 Bogota 0.0 0.0 ellipse level 2
+70 LoQueDejaElParo 0.0 0.0 ellipse level 2
+71 Ahora 0.0 0.0 ellipse level 2
+72 Cali 0.0 0.0 ellipse level 2
+73 FuerzaPublica 0.0 0.0 ellipse level 2
+74 CONPES 0.0 0.0 ellipse level 2
+75 TransformacionDigital 0.0 0.0 ellipse level 2
+76 LumonColombiaSITA2019 0.0 0.0 ellipse level 2
+77 UribeDioLaCara 0.0 0.0 ellipse level 2
+78 InfodayPLN 0.0 0.0 ellipse level 2
+79 AlianzaCAOBA 0.0 0.0 ellipse level 2
+80 Statistics 0.0 0.0 ellipse level 2
+81 issi2019 0.0 0.0 ellipse level 2
+82 LaRedRecomienda 0.0 0.0 ellipse level 2
+83 NuestrosSoldados 0.0 0.0 ellipse level 2
+84 Farcsantes 0.0 0.0 ellipse level 2
+85 UribeLibreOPreso 0.0 0.0 ellipse level 2
+86 SantosImpune 0.0 0.0 ellipse level 2
+87 OperacionDestruccion 0.0 0.0 ellipse level 2
+88 FelizViernes 0.0 0.0 ellipse level 2
+89 SantrichLibre 0.0 0.0 ellipse level 2
+90 SpamDeParquesNaturales 0.0 0.0 ellipse level 2
+91 DiaDeLaBiodiversidad 0.0 0.0 ellipse level 2
+92 ReduciendoDeforestacion 0.0 0.0 ellipse level 2
+93 SantosTraidor 0.0 0.0 ellipse level 2
+94 TASS2018 0.0 0.0 ellipse level 2
+95 datalumon 0.0 0.0 ellipse level 2
+96 TesisDoctoral 0.0 0.0 ellipse level 2
+97 somosdelta7 0.0 0.0 ellipse level 2
+98 SomoDelta7 0.0 0.0 ellipse level 2
+99 SomosDelta7 0.0 0.0 ellipse level 2
+100 DataLumon 0.0 0.0 ellipse level 2
+101 TalentoWayra 0.0 0.0 ellipse level 2
+102 OpenScience 0.0 0.0 ellipse level 2
+103 fintechconf17 0.0 0.0 ellipse level 2
+104 congresoasoriesgo2017 0.0 0.0 ellipse level 2
+105 CHAMPIONSxESPN 0.0 0.0 ellipse level 2
+106 probandonuevosistema 0.0 0.0 ellipse level 2
+107 HackathonCoomeva 0.0 0.0 ellipse level 2
+108 Fundatic 0.0 0.0 ellipse level 2
+109 hackathoncoomeva 0.0 0.0 ellipse level 2
+110 lumon 0.0 0.0 ellipse level 2
+111 NobelPrize 0.0 0.0 ellipse level 2
+112 Peace 0.0 0.0 ellipse level 2
+113 Lumonet 0.0 0.0 ellipse level 2
+114 SiSePuede 0.0 0.0 ellipse level 2
+115 FelizMiercoles 0.0 0.0 ellipse level 2
+116 Spark 0.0 0.0 ellipse level 2
+117 CAOBA 0.0 0.0 ellipse level 2
+118 caobaesbigdata 0.0 0.0 ellipse level 2
+119 OpenLumon 0.0 0.0 ellipse level 2
+120 IsagenEsDeTodos 0.0 0.0 ellipse level 2
+121 Feliz2016 0.0 0.0 ellipse level 2
+122 lumoneducacion 0.0 0.0 ellipse level 2
+123 tecnologiaeneducacion 0.0 0.0 ellipse level 2
+124 gabo 0.0 0.0 ellipse level 2
+125 gabo20 0.0 0.0 ellipse level 2
+126 winner 0.0 0.0 ellipse level 2
+127 gabo2 0.0 0.0 ellipse level 2
+128 SomosSonar 0.0 0.0 ellipse level 2
+129 deezer 0.0 0.0 ellipse level 2
+130 goodfitness 0.0 0.0 ellipse level 2
+131 urosario 0.0 0.0 ellipse level 2
+132 FaltaPocoPara 0.0 0.0 ellipse level 2
+133 FelizJueves 0.0 0.0 ellipse level 2
+134 ConLaTricolorPuesta 0.0 0.0 ellipse level 2
+135 FelizLunes 0.0 0.0 ellipse level 2
+136 docentesqueadmiro 0.0 0.0 ellipse level 2
+137 AsambleaOMT 0.0 0.0 ellipse level 2
+138 SacaleLaLengua 0.0 0.0 ellipse level 2
+139 PoweredByTweets 0.0 0.0 ellipse level 2
+140 PreguntasDF9 0.0 0.0 ellipse level 2
+141 InnovacionAbierta 0.0 0.0 ellipse level 2
+142 MBA45 0.0 0.0 ellipse level 2
+143 Quiron 0.0 0.0 ellipse level 2
+144 quiron 0.0 0.0 ellipse level 2
+145 pruebaser 0.0 0.0 ellipse level 2
+146 InnovInCities 0.0 0.0 ellipse level 2
+147 CAS 0.0 0.0 ellipse level 2
+148 constructoresdeciudad 0.0 0.0 ellipse level 2
+149 Salud_TICs 0.0 0.0 ellipse level 2
+150 CPC 0.0 0.0 ellipse level 2
+151 ThinkingTip 0.0 0.0 ellipse level 2
+152 ThinkingTech 0.0 0.0 ellipse level 2
+153 connectedsociety 0.0 0.0 ellipse level 2
+154 ericsson 0.0 0.0 ellipse level 2
+155 TED 0.0 0.0 ellipse level 2
+156 sopa 0.0 0.0 ellipse level 2
+157 SOPA 0.0 0.0 ellipse level 2
+158 LeySopa 0.0 0.0 ellipse level 2
+159 samsung 0.0 0.0 ellipse level 2
+160 rim 0.0 0.0 ellipse level 2
+161 blackberrys 0.0 0.0 ellipse level 2
+162 Actualidad 0.0 0.0 ellipse level 2
+163 Internet 0.0 0.0 ellipse level 2
+164 stopSOPA 0.0 0.0 ellipse level 2
+165 tuberculosis 0.0 0.0 ellipse level 2
+166 TB 0.0 0.0 ellipse level 2
+167 Colombia3 0.0 0.0 ellipse level 2
+168 Armenia 0.0 0.0 ellipse level 2
+169 Tigo 0.0 0.0 ellipse level 2
+170 Portabilidad 0.0 0.0 ellipse level 2
+171 Comcel 0.0 0.0 ellipse level 2
+172 Movistar 0.0 0.0 ellipse level 2
+173 OlaInvernal 0.0 0.0 ellipse level 2
+174 horatic 0.0 0.0 ellipse level 2
+175 CruzadaAntitramites 0.0 0.0 ellipse level 2
+176 AlcaldiadeMed 0.0 0.0 ellipse level 2
+177 AlTrabajoEnBicicleta 0.0 0.0 ellipse level 2
+178 UnMejorAire 0.0 0.0 ellipse level 2
+179 ComprasPublicas 0.0 0.0 ellipse level 2
+180 ValleDelSoftware 0.0 0.0 ellipse level 2
+181 AlAire 0.0 0.0 ellipse level 2
+182 MedellinConecta 0.0 0.0 ellipse level 2
+183 DiaMundialDeLosAnimales 0.0 0.0 ellipse level 2
+184 MatriculaCero 0.0 0.0 ellipse level 2
+185 MedellinConectaTV 0.0 0.0 ellipse level 2
+186 MedellinMeCuida 0.0 0.0 ellipse level 2
+187 TodoVaAEstarBien 0.0 0.0 ellipse level 2
+188 MedellinFuturo 0.0 0.0 ellipse level 2
+189 MedellinFututo 0.0 0.0 ellipse level 2
+190 TransformacionEducativa 0.0 0.0 ellipse level 2
+191 MedellinBiodiversa 0.0 0.0 ellipse level 2
+192 DiaMundialdelosAnimales 0.0 0.0 ellipse level 2
+193 ParchesJuveniles 0.0 0.0 ellipse level 2
+194 EcoCiudad 0.0 0.0 ellipse level 2
+195 AdoptaEnLaPerla 0.0 0.0 ellipse level 2
+196 FacebookLive 0.0 0.0 ellipse level 2
+197 MujerConPropiedad 0.0 0.0 ellipse level 2
+198 UnidadMovilSNR 0.0 0.0 ellipse level 2
+199 JuventudES 0.0 0.0 ellipse level 2
+200 MedellinJoven 0.0 0.0 ellipse level 2
+201 Ecociudad 0.0 0.0 ellipse level 2
+202 BecasTecnologias 0.0 0.0 ellipse level 2
+203 AceleracionEmpresarial 0.0 0.0 ellipse level 2
+204 RutaSTEM 0.0 0.0 ellipse level 2
+205 Informate 0.0 0.0 ellipse level 2
+206 TrabajandoSinParar 0.0 0.0 ellipse level 2
+207 MedellinMeEnamora 0.0 0.0 ellipse level 2
+208 NosMueveLaCultura 0.0 0.0 ellipse level 2
+209 NoViolencia 0.0 0.0 ellipse level 2
+210 AlistamientoFinanciero 0.0 0.0 ellipse level 2
+211 RevolucionDeLaNoViolencia 0.0 0.0 ellipse level 2
+212 LaVidaEsSagrada 0.0 0.0 ellipse level 2
+213 MetroDeLa80 0.0 0.0 ellipse level 2
+214 FormasDeLaEmpatia 0.0 0.0 ellipse level 2
+215 TemporadaDeLluvias 0.0 0.0 ellipse level 2
+216 CapitalSemilla 0.0 0.0 ellipse level 2
+217 MedellinEnLaCabeza 0.0 0.0 ellipse level 2
+218 HabitatJoven 0.0 0.0 ellipse level 2
+219 ReporteCOVID19Medellin 0.0 0.0 ellipse level 2
+220 ElINDERSeSiente 0.0 0.0 ellipse level 2
+221 HotelPlazaMayor 0.0 0.0 ellipse level 2
+222 MejorEnFamilia 0.0 0.0 ellipse level 2
+223 COVID19 0.0 0.0 ellipse level 2
+224 PrevenirEsVivir 0.0 0.0 ellipse level 2
+225 QueHablenLosHechos 0.0 0.0 ellipse level 2
+226 MesDelPatrimonio 0.0 0.0 ellipse level 2
+227 LePongoElPare 0.0 0.0 ellipse level 2
+228 ElFuturoSePoneEnMarcha 0.0 0.0 ellipse level 2
+229 CulturaDelFutbol 0.0 0.0 ellipse level 2
+230 MedellinFuturo2020 0.0 0.0 ellipse level 2
+231 ClubesJuveniles 0.0 0.0 ellipse level 2
+232 DiaInternacionalDelTurismo 0.0 0.0 ellipse level 2
+233 AprenderTransforma 0.0 0.0 ellipse level 2
+234 NacionEmprendedora 0.0 0.0 ellipse level 2
+235 TerritorioJoven 0.0 0.0 ellipse level 2
+236 YoDecidoCuando 0.0 0.0 ellipse level 2
+237 Recuerda 0.0 0.0 ellipse level 2
+238 Atencion 0.0 0.0 ellipse level 2
+239 TodoVaEstarBien 0.0 0.0 ellipse level 2
+240 TBT 0.0 0.0 ellipse level 2
+241 MercadosCampesinos 0.0 0.0 ellipse level 2
+242 SOFTIC2020 0.0 0.0 ellipse level 2
+243 AseoYOrnato 0.0 0.0 ellipse level 2
+244 PorMisDerechos 0.0 0.0 ellipse level 2
+245 DiaDeLasLenguasDeSenas 0.0 0.0 ellipse level 2
+246 SoyGaranteDeVida 0.0 0.0 ellipse level 2
+247 CompraLocal 0.0 0.0 ellipse level 2
+248 DiaMundialSinCarro 0.0 0.0 ellipse level 2
+249 MovilidadActiva 0.0 0.0 ellipse level 2
+250 YoLlegoEn 0.0 0.0 ellipse level 2
+251 ReactivacionEconomica 0.0 0.0 ellipse level 2
+252 DiaInternacionalDeLaPaz 0.0 0.0 ellipse level 2
+253 DonatonTecnologica 0.0 0.0 ellipse level 2
+254 AEstaHora 0.0 0.0 ellipse level 2
+255 MovilidadParaLaVida 0.0 0.0 ellipse level 2
+256 VisionCeroMed 0.0 0.0 ellipse level 2
+257 MedellinDePelicula 0.0 0.0 ellipse level 2
+258 AmorYAmistad 0.0 0.0 ellipse level 2
+259 EstudiarTransformaMiFuturo 0.0 0.0 ellipse level 2
+260 GerenciaEtnica 0.0 0.0 ellipse level 2
+261 BienestarAnimal 0.0 0.0 ellipse level 2
+262 FiestaDelLibro2020 0.0 0.0 ellipse level 2
+263 MedellinCreativa 0.0 0.0 ellipse level 2
+264 ActitudEnMovimiento 0.0 0.0 ellipse level 2
+265 InnovacionDigital 0.0 0.0 ellipse level 2
+266 ProteccionAMoradores 0.0 0.0 ellipse level 2
+267 SemanaDeLaJuventud 0.0 0.0 ellipse level 2
+268 AgendateConElIcfes 0.0 0.0 ellipse level 2
+269 LaDiversidadSeSiente 0.0 0.0 ellipse level 2
+270 SeguridadDelPaciente 0.0 0.0 ellipse level 2
+271 HeroesDeLaSalud 0.0 0.0 ellipse level 2
+272 Importante 0.0 0.0 ellipse level 2
+273 PlanMil 0.0 0.0 ellipse level 2
+274 DemocraciaJoven 0.0 0.0 ellipse level 2
+275 EscuelaDeProveedores 0.0 0.0 ellipse level 2
+276 Ecociudadanos 0.0 0.0 ellipse level 2
+277 Covid19 0.0 0.0 ellipse level 2
+278 Biodiversidad 0.0 0.0 ellipse level 2
+279 ComoVaLaVida 0.0 0.0 ellipse level 2
+280 DerechoAReunionPacifica 0.0 0.0 ellipse level 2
+281 Hilo 0.0 0.0 ellipse level 2
+282 ConZumoCreativo 0.0 0.0 ellipse level 2
+283 Utopias 0.0 0.0 ellipse level 2
+284 BuenComienzo 0.0 0.0 ellipse level 2
+285 Hidroituango 0.0 0.0 ellipse level 2
+286 AlAireEnLaW 0.0 0.0 ellipse level 2
+287 MananasBLU 0.0 0.0 ellipse level 2
+288 EnVivo 0.0 0.0 ellipse level 2
+289 6AM 0.0 0.0 ellipse level 2
+290 SemanaDeLaJuvetud 0.0 0.0 ellipse level 2
+291 CiudadAltavoz 0.0 0.0 ellipse level 2
+292 PogoVirtual 0.0 0.0 ellipse level 2
+293 TodosSomosUno 0.0 0.0 ellipse level 2
+294 AmericanRepoter 0.0 0.0 ellipse level 2
+295 CartaAUnServidorDeLaSalud 0.0 0.0 ellipse level 2
+296 TardesDeLaCentroriental 0.0 0.0 ellipse level 2
+297 FiccionNoFiccion 0.0 0.0 ellipse level 2
+298 DAGRDReporta 0.0 0.0 ellipse level 2
+299 DAGRDREPORTA 0.0 0.0 ellipse level 2
+300 BomberosMedellin 0.0 0.0 ellipse level 2
+301 PatrimonioMedellin 0.0 0.0 ellipse level 2
+302 MesPorLaPazAnt 0.0 0.0 ellipse level 2
+303 SaludPublicaJuvenil 0.0 0.0 ellipse level 2
+304 VisionCero 0.0 0.0 ellipse level 2
+305 ConexionBibliotecaria 0.0 0.0 ellipse level 2
+306 MedellinConectaTv 0.0 0.0 ellipse level 2
+307 VoluntariadoJoven 0.0 0.0 ellipse level 2
+308 EntreTodosLoLogramos 0.0 0.0 ellipse level 2
+309 PicoYCedula 0.0 0.0 ellipse level 2
+310 Terrestres 0.0 0.0 ellipse level 2
+311 HeroesAnticovid 0.0 0.0 ellipse level 2
+312 NoBajemosLaGuardia 0.0 0.0 ellipse level 2
+313 HeroesAntiCOVID 0.0 0.0 ellipse level 2
+314 StartTV 0.0 0.0 ellipse level 2
+315 MusicaParaLaVida 0.0 0.0 ellipse level 2
+316 MitosDelCoronavirus 0.0 0.0 ellipse level 2
+317 ElevemosLaEsperanza 0.0 0.0 ellipse level 2
+318 SemanadeLaJuventud 0.0 0.0 ellipse level 2
+319 Econsejos 0.0 0.0 ellipse level 2
+320 ELPAUER 0.0 0.0 ellipse level 2
+321 Juventudes 0.0 0.0 ellipse level 2
+322 MedellinCuidadoTotal 0.0 0.0 ellipse level 2
+323 SerMejor 0.0 0.0 ellipse level 2
+324 SinExcusasParaCuidarnos 0.0 0.0 ellipse level 2
+325 ArrobaMedellin 0.0 0.0 ellipse level 2
+326 Noticia 0.0 0.0 ellipse level 2
+327 MedelliConectaTV 0.0 0.0 ellipse level 2
+328 RutaNaranja 0.0 0.0 ellipse level 2
+329 WebinarsExpofinca2020 0.0 0.0 ellipse level 2
+330 WorldTravelAwards 0.0 0.0 ellipse level 2
+331 Expotecnologica2020 0.0 0.0 ellipse level 2
+332 JuventudesUtopicas 0.0 0.0 ellipse level 2
+333 MedellinSeQuedaEnCasa 0.0 0.0 ellipse level 2
+334 ParqueE 0.0 0.0 ellipse level 2
+335 FloresDeMedellin 0.0 0.0 ellipse level 2
+336 JuventudEs 0.0 0.0 ellipse level 2
+337 VolveremosAFlorecer 0.0 0.0 ellipse level 2
+338 DiaInteramericanoDeLaCalidadDelAire 0.0 0.0 ellipse level 2
+339 21Esquinas 0.0 0.0 ellipse level 2
+340 CircoDeLaEsperanza 0.0 0.0 ellipse level 2
+341 WebinarsPlazaMayor 0.0 0.0 ellipse level 2
+342 UnidosNosCuidamos 0.0 0.0 ellipse level 2
+343 GlocalFoodFest 0.0 0.0 ellipse level 2
+344 MedellinEsSabor 0.0 0.0 ellipse level 2
+345 DiaDeLaJuventud 0.0 0.0 ellipse level 2
+346 LlevoAAntioquiaEnLaPiel 0.0 0.0 ellipse level 2
+347 LactarEsFuturo 0.0 0.0 ellipse level 2
+348 CuartaRevolucionIndustrial 0.0 0.0 ellipse level 2
+349 JuventudQueTejeVida 0.0 0.0 ellipse level 2
+350 DelBarrioParaTi 0.0 0.0 ellipse level 2
+351 DiaPueblosIndigenas 0.0 0.0 ellipse level 2
+352 FeriaDeLasFlores 0.0 0.0 ellipse level 2
+353 SoyJoven 0.0 0.0 ellipse level 2
+354 FormandoTalentoFuturo 0.0 0.0 ellipse level 2
+*arcs
+1 2 1.0
+1 3 1.0
+1 4 1.0
+5 6 1.0
+5 7 1.0
+5 8 1.0
+5 9 1.0
+5 10 1.0
+5 11 1.0
+5 12 1.0
+5 13 1.0
+5 14 1.0
+5 15 1.0
+5 16 1.0
+5 17 1.0
+5 18 1.0
+5 19 1.0
+5 20 1.0
+5 21 1.0
+5 22 1.0
+5 23 1.0
+5 24 1.0
+5 25 1.0
+5 26 1.0
+5 27 1.0
+5 28 1.0
+5 29 1.0
+5 30 1.0
+5 31 1.0
+5 32 1.0
+5 33 1.0
+5 34 1.0
+5 35 1.0
+5 36 1.0
+5 37 1.0
+5 38 1.0
+5 39 1.0
+5 40 1.0
+5 41 1.0
+5 42 1.0
+5 43 1.0
+5 44 1.0
+5 45 1.0
+5 46 1.0
+5 47 1.0
+5 48 1.0
+5 49 1.0
+5 50 1.0
+5 51 1.0
+5 52 1.0
+5 53 1.0
+5 54 1.0
+5 55 1.0
+5 56 1.0
+5 57 1.0
+5 58 1.0
+5 59 1.0
+5 60 1.0
+5 61 1.0
+5 62 1.0
+5 63 1.0
+5 64 1.0
+5 65 1.0
+5 66 1.0
+5 67 1.0
+5 68 1.0
+5 69 1.0
+5 70 1.0
+5 71 1.0
+5 72 1.0
+5 73 1.0
+5 74 1.0
+5 75 1.0
+5 76 1.0
+5 77 1.0
+5 78 1.0
+5 79 1.0
+5 80 1.0
+5 81 1.0
+5 82 1.0
+5 83 1.0
+5 84 1.0
+5 85 1.0
+5 86 1.0
+5 4 1.0
+5 87 1.0
+5 88 1.0
+5 89 1.0
+5 90 1.0
+5 91 1.0
+5 92 1.0
+5 93 1.0
+5 94 1.0
+5 95 1.0
+5 96 1.0
+5 97 1.0
+5 98 1.0
+5 99 1.0
+5 100 1.0
+5 101 1.0
+5 102 1.0
+5 103 1.0
+5 104 1.0
+5 105 1.0
+5 106 1.0
+5 107 1.0
+5 108 1.0
+5 109 1.0
+5 110 1.0
+5 111 1.0
+5 112 1.0
+5 113 1.0
+5 114 1.0
+5 115 1.0
+5 116 1.0
+5 117 1.0
+5 118 1.0
+5 119 1.0
+5 120 1.0
+5 121 1.0
+5 122 1.0
+5 123 1.0
+5 124 1.0
+5 125 1.0
+5 126 1.0
+5 127 1.0
+5 128 1.0
+5 129 1.0
+5 130 1.0
+5 131 1.0
+5 132 1.0
+5 133 1.0
+5 134 1.0
+5 135 1.0
+5 136 1.0
+5 137 1.0
+5 138 1.0
+5 139 1.0
+5 140 1.0
+5 141 1.0
+5 142 1.0
+5 143 1.0
+5 144 1.0
+5 145 1.0
+5 146 1.0
+5 147 1.0
+5 148 1.0
+5 149 1.0
+5 150 1.0
+5 151 1.0
+5 152 1.0
+5 153 1.0
+5 154 1.0
+5 155 1.0
+5 156 1.0
+5 157 1.0
+5 158 1.0
+5 159 1.0
+5 160 1.0
+5 161 1.0
+5 162 1.0
+5 163 1.0
+5 164 1.0
+5 165 1.0
+5 166 1.0
+5 167 1.0
+5 168 1.0
+5 169 1.0
+5 170 1.0
+5 171 1.0
+5 172 1.0
+5 173 1.0
+5 174 1.0
+5 175 1.0
+176 177 1.0
+176 178 1.0
+176 179 1.0
+176 180 1.0
+176 181 1.0
+176 182 1.0
+176 183 1.0
+176 184 1.0
+176 185 1.0
+176 186 1.0
+176 187 1.0
+176 188 1.0
+176 189 1.0
+176 190 1.0
+176 191 1.0
+176 192 1.0
+176 193 1.0
+176 194 1.0
+176 195 1.0
+176 196 1.0
+176 197 1.0
+176 198 1.0
+176 199 1.0
+176 200 1.0
+176 201 1.0
+176 202 1.0
+176 203 1.0
+176 204 1.0
+176 205 1.0
+176 206 1.0
+176 207 1.0
+176 208 1.0
+176 209 1.0
+176 210 1.0
+176 211 1.0
+176 212 1.0
+176 213 1.0
+176 214 1.0
+176 215 1.0
+176 216 1.0
+176 217 1.0
+176 218 1.0
+176 219 1.0
+176 220 1.0
+176 221 1.0
+176 222 1.0
+176 223 1.0
+176 224 1.0
+176 225 1.0
+176 226 1.0
+176 227 1.0
+176 228 1.0
+176 229 1.0
+176 230 1.0
+176 231 1.0
+176 232 1.0
+176 233 1.0
+176 234 1.0
+176 235 1.0
+176 236 1.0
+176 237 1.0
+176 238 1.0
+176 239 1.0
+176 240 1.0
+176 241 1.0
+176 242 1.0
+176 243 1.0
+176 244 1.0
+176 245 1.0
+176 246 1.0
+176 247 1.0
+176 248 1.0
+176 249 1.0
+176 250 1.0
+176 251 1.0
+176 252 1.0
+176 253 1.0
+176 254 1.0
+176 255 1.0
+176 256 1.0
+176 257 1.0
+176 258 1.0
+176 259 1.0
+176 260 1.0
+176 261 1.0
+176 262 1.0
+176 263 1.0
+176 264 1.0
+176 265 1.0
+176 266 1.0
+176 267 1.0
+176 268 1.0
+176 269 1.0
+176 270 1.0
+176 271 1.0
+176 272 1.0
+176 273 1.0
+176 274 1.0
+176 275 1.0
+176 276 1.0
+176 277 1.0
+176 278 1.0
+176 279 1.0
+176 280 1.0
+176 281 1.0
+176 282 1.0
+176 283 1.0
+176 284 1.0
+176 285 1.0
+176 286 1.0
+176 287 1.0
+176 288 1.0
+176 289 1.0
+176 290 1.0
+176 291 1.0
+176 292 1.0
+176 293 1.0
+176 294 1.0
+176 295 1.0
+176 296 1.0
+176 297 1.0
+176 298 1.0
+176 299 1.0
+176 300 1.0
+176 301 1.0
+176 302 1.0
+176 303 1.0
+176 304 1.0
+176 305 1.0
+176 306 1.0
+176 307 1.0
+176 308 1.0
+176 309 1.0
+176 310 1.0
+176 311 1.0
+176 312 1.0
+176 313 1.0
+176 314 1.0
+176 315 1.0
+176 316 1.0
+176 317 1.0
+176 318 1.0
+176 319 1.0
+176 320 1.0
+176 321 1.0
+176 322 1.0
+176 323 1.0
+176 324 1.0
+176 13 1.0
+176 325 1.0
+176 326 1.0
+176 327 1.0
+176 328 1.0
+176 329 1.0
+176 330 1.0
+176 331 1.0
+176 332 1.0
+176 333 1.0
+176 334 1.0
+176 335 1.0
+176 336 1.0
+176 337 1.0
+176 338 1.0
+176 339 1.0
+176 340 1.0
+176 341 1.0
+176 342 1.0
+176 343 1.0
+176 344 1.0
+176 345 1.0
+176 346 1.0
+176 347 1.0
+176 348 1.0
+176 349 1.0
+176 350 1.0
+176 351 1.0
+176 352 1.0
+176 353 1.0
+176 354 1.0

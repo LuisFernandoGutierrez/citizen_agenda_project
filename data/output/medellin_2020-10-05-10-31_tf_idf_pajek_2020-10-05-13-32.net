@@ -1,0 +1,506 @@
+*vertices 104
+1 "abrir convocatorio" 0.0 0.0 ellipse type word color red level w
+2 luisfer81567047 0.0 0.0 ellipse type university color blue level u
+3 gabrielmoreno10 0.0 0.0 ellipse type university color blue level u
+4 AlcaldiadeMed 0.0 0.0 ellipse type university color blue level u
+5 QuinteroCalle 0.0 0.0 ellipse type university color blue level u
+6 "abrir procesar" 0.0 0.0 ellipse type word color red level w
+7 "acompanamiento especializar" 0.0 0.0 ellipse type word color red level w
+8 "actualizar casar" 0.0 0.0 ellipse type word color red level w
+9 "actualizar caso" 0.0 0.0 ellipse type word color red level w
+10 "aire hoy" 0.0 0.0 ellipse type word color red level w
+11 "aire librar" 0.0 0.0 ellipse type word color red level w
+12 "alaire hoy" 0.0 0.0 ellipse type word color red level w
+13 "alto calidad" 0.0 0.0 ellipse type word color red level w
+14 "arte cultura" 0.0 0.0 ellipse type word color red level w
+15 "bajar guardia" 0.0 0.0 ellipse type word color red level w
+16 "bienestar animal" 0.0 0.0 ellipse type word color red level w
+17 "bill peso" 0.0 0.0 ellipse type word color red level w
+18 "bueno comportamiento" 0.0 0.0 ellipse type word color red level w
+19 "bueno noticiar" 0.0 0.0 ellipse type word color red level w
+20 "calidad aire" 0.0 0.0 ellipse type word color red level w
+21 "capturar alias" 0.0 0.0 ellipse type word color red level w
+22 "caso nuevo" 0.0 0.0 ellipse type word color red level w
+23 "cedulas terminar" 0.0 0.0 ellipse type word color red level w
+24 "centro comercial" 0.0 0.0 ellipse type word color red level w
+25 "ciencia tecnologia" 0.0 0.0 ellipse type word color red level w
+26 "compartir dato" 0.0 0.0 ellipse type word color red level w
+27 "compartir informacion" 0.0 0.0 ellipse type word color red level w
+28 "compraspublicas abrir" 0.0 0.0 ellipse type word color red level w
+29 "compraspublicas encontrar" 0.0 0.0 ellipse type word color red level w
+30 "compraspublicas iniciar" 0.0 0.0 ellipse type word color red level w
+31 "conocer mas" 0.0 0.0 ellipse type word color red level w
+32 "convertir ecociudad" 0.0 0.0 ellipse type word color red level w
+33 "cuidar total" 0.0 0.0 ellipse type word color red level w
+34 "dato actualizar" 0.0 0.0 ellipse type word color red level w
+35 "dia internacional" 0.0 0.0 ellipse type word color red level w
+36 "diversidad sexual" 0.0 0.0 ellipse type word color red level w
+37 "economica ciudad" 0.0 0.0 ellipse type word color red level w
+38 "educacion superior" 0.0 0.0 ellipse type word color red level w
+39 "encontrar procesar" 0.0 0.0 ellipse type word color red level w
+40 "escenario deportivo" 0.0 0.0 ellipse type word color red level w
+41 "escribirnos compartir" 0.0 0.0 ellipse type word color red level w
+42 "espaciar publicar" 0.0 0.0 ellipse type word color red level w
+43 "fin semana" 0.0 0.0 ellipse type word color red level w
+44 "gerencia diversidad" 0.0 0.0 ellipse type word color red level w
+45 "gestor social" 0.0 0.0 ellipse type word color red level w
+46 "gracia escribirnos" 0.0 0.0 ellipse type word color red level w
+47 "haber ser" 0.0 0.0 ellipse type word color red level w
+48 "hablar reapertura" 0.0 0.0 ellipse type word color red level w
+49 "hacer mas" 0.0 0.0 ellipse type word color red level w
+50 "hacer partir" 0.0 0.0 ellipse type word color red level w
+51 "hoy hablar" 0.0 0.0 ellipse type word color red level w
+52 "hoy manana" 0.0 0.0 ellipse type word color red level w
+53 "hoy medellinconecta" 0.0 0.0 ellipse type word color red level w
+54 "hoy radiar" 0.0 0.0 ellipse type word color red level w
+55 "hoy tener" 0.0 0.0 ellipse type word color red level w
+56 "iniciar procesar" 0.0 0.0 ellipse type word color red level w
+57 "junto directivo" 0.0 0.0 ellipse type word color red level w
+58 "mas importante" 0.0 0.0 ellipse type word color red level w
+59 "medellinconecta radiar" 0.0 0.0 ellipse type word color red level w
+60 "medellinmecuida compartir" 0.0 0.0 ellipse type word color red level w
+61 "medir bioseguridad" 0.0 0.0 ellipse type word color red level w
+62 "mejor futuro" 0.0 0.0 ellipse type word color red level w
+63 "miembro junto" 0.0 0.0 ellipse type word color red level w
+64 "ninas adolescente" 0.0 0.0 ellipse type word color red level w
+65 "ninos ninas" 0.0 0.0 ellipse type word color red level w
+66 "noviolencia noviolencia" 0.0 0.0 ellipse type word color red level w
+67 "nuevo gerencia" 0.0 0.0 ellipse type word color red level w
+68 "nuevo normalidad" 0.0 0.0 ellipse type word color red level w
+69 "parque norte" 0.0 0.0 ellipse type word color red level w
+70 "personar discapacidad" 0.0 0.0 ellipse type word color red level w
+71 "personar mayor" 0.0 0.0 ellipse type word color red level w
+72 "plan desarrollar" 0.0 0.0 ellipse type word color red level w
+73 "politica publicar" 0.0 0.0 ellipse type word color red level w
+74 "poner marchar" 0.0 0.0 ellipse type word color red level w
+75 "procesar proveedor" 0.0 0.0 ellipse type word color red level w
+76 "procesar seleccion" 0.0 0.0 ellipse type word color red level w
+77 "protocolo bioseguridad" 0.0 0.0 ellipse type word color red level w
+78 "proveedor servicio" 0.0 0.0 ellipse type word color red level w
+79 "proveedor suministrar" 0.0 0.0 ellipse type word color red level w
+80 "pudrir alimento" 0.0 0.0 ellipse type word color red level w
+81 "querer ser" 0.0 0.0 ellipse type word color red level w
+82 "radiar hablar" 0.0 0.0 ellipse type word color red level w
+83 "reactivacion economica" 0.0 0.0 ellipse type word color red level w
+84 "reapertura economica" 0.0 0.0 ellipse type word color red level w
+85 "recurso publicos" 0.0 0.0 ellipse type word color red level w
+86 "redar social" 0.0 0.0 ellipse type word color red level w
+87 "ruta medellinmecuida" 0.0 0.0 ellipse type word color red level w
+88 "saber ser" 0.0 0.0 ellipse type word color red level w
+89 "secretario mujer" 0.0 0.0 ellipse type word color red level w
+90 "secretario salud" 0.0 0.0 ellipse type word color red level w
+91 "seleccion proveedor" 0.0 0.0 ellipse type word color red level w
+92 "semana septiembre" 0.0 0.0 ellipse type word color red level w
+93 "ser ejemplo" 0.0 0.0 ellipse type word color red level w
+94 "ser partir" 0.0 0.0 ellipse type word color red level w
+95 "siguiente enlazar" 0.0 0.0 ellipse type word color red level w
+96 "teatro aire" 0.0 0.0 ellipse type word color red level w
+97 "tener mas" 0.0 0.0 ellipse type word color red level w
+98 "terminar pudrir" 0.0 0.0 ellipse type word color red level w
+99 "todovaaestarbien amplio" 0.0 0.0 ellipse type word color red level w
+100 "traves secretario" 0.0 0.0 ellipse type word color red level w
+101 "ultimos ano" 0.0 0.0 ellipse type word color red level w
+102 "usar tapaboca" 0.0 0.0 ellipse type word color red level w
+103 "verdad casar" 0.0 0.0 ellipse type word color red level w
+104 "vigencia futuro" 0.0 0.0 ellipse type word color red level w
+*arcs
+1 2 0.0
+1 3 0.0
+1 4 0.13243298104626036
+1 5 0.0
+6 2 0.0
+6 3 0.0
+6 4 0.09758219656040235
+6 5 0.0
+7 2 0.0
+7 3 0.0
+7 4 0.06273141207454437
+7 5 0.0
+8 2 0.0
+8 3 0.0
+8 4 0.11849266725191715
+8 5 0.0
+9 2 0.0
+9 3 0.0
+9 4 0.09061203966323077
+9 5 0.0
+10 2 0.0
+10 3 0.0
+10 4 0.10455235345757395
+10 5 0.0
+11 2 0.0
+11 3 0.0
+11 4 0.08364188276605916
+11 5 0.0
+12 2 0.0
+12 3 0.0
+12 4 0.07667172586888756
+12 5 0.0
+13 2 0.0
+13 3 0.0
+13 4 0.04396281406263217
+13 5 0.09319828074277701
+14 2 0.0
+14 3 0.0
+14 4 0.06594422109394826
+14 5 0.03106609358092567
+15 2 0.0
+15 3 0.0
+15 4 0.03846746230480315
+15 5 0.06213218716185134
+16 2 0.0
+16 3 0.0
+16 4 0.03846746230480315
+16 5 0.06213218716185134
+17 2 0.0
+17 3 0.0
+17 4 0.021981407031316087
+17 5 0.12426437432370269
+18 2 0.0
+18 3 0.0
+18 4 0.04396281406263217
+18 5 0.03106609358092567
+19 2 0.0
+19 3 0.0
+19 4 0.06594422109394826
+19 5 0.4038592165520337
+20 2 0.0
+20 3 0.0
+20 4 0.12546282414908874
+20 5 0.0
+21 2 0.0
+21 3 0.0
+21 4 0.010990703515658043
+21 5 0.24852874864740537
+22 2 0.0
+22 3 0.03227664496267727
+22 4 0.054953517578290215
+22 5 0.0
+23 2 0.0
+23 3 0.0
+23 4 0.11849266725191715
+23 5 0.0
+24 2 0.0
+24 3 0.0
+24 4 0.04396281406263217
+24 5 0.12426437432370269
+25 2 0.0
+25 3 0.026130725825094826
+25 4 0.013346882576766925
+25 5 0.10060272060601083
+26 2 0.0
+26 3 0.0
+26 4 0.2788062758868639
+26 5 0.0
+27 2 0.0
+27 3 0.0
+27 4 0.09758219656040235
+27 5 0.0
+28 2 0.0
+28 3 0.0
+28 4 0.09758219656040235
+28 5 0.0
+29 2 0.0
+29 3 0.0
+29 4 0.08364188276605916
+29 5 0.0
+30 2 0.0
+30 3 0.0
+30 4 0.06273141207454437
+30 5 0.0
+31 2 0.0
+31 3 0.0
+31 4 0.06970156897171598
+31 5 0.0
+32 2 0.0
+32 3 0.0
+32 4 0.06970156897171598
+32 5 0.0
+33 2 0.0
+33 3 0.0
+33 4 0.010990703515658043
+33 5 0.27959484222833103
+34 2 0.0
+34 3 0.0
+34 4 0.2857764327840355
+34 5 0.0
+35 2 0.0
+35 3 0.03227664496267727
+35 4 0.03846746230480315
+35 5 0.0
+36 2 0.0
+36 3 0.0
+36 4 0.03846746230480315
+36 5 0.06213218716185134
+37 2 0.0
+37 3 0.0
+37 4 0.07667172586888756
+37 5 0.0
+38 2 0.0
+38 3 0.0
+38 4 0.06273141207454437
+38 5 0.0
+39 2 0.0
+39 3 0.0
+39 4 0.08364188276605916
+39 5 0.0
+40 2 0.0
+40 3 0.0
+40 4 0.06594422109394826
+40 5 0.06213218716185134
+41 2 0.0
+41 3 0.0
+41 4 0.11849266725191715
+41 5 0.0
+42 2 0.0
+42 3 0.0
+42 4 0.04396281406263217
+42 5 0.15533046790462834
+43 2 0.0
+43 3 0.0
+43 4 0.08243027636743532
+43 5 0.06213218716185134
+44 2 0.0
+44 3 0.0
+44 4 0.03846746230480315
+44 5 0.06213218716185134
+45 2 0.0
+45 3 0.0
+45 4 0.04945816582046119
+45 5 0.03106609358092567
+46 2 0.0
+46 3 0.0
+46 4 0.2718361189896923
+46 5 0.0
+47 2 0.0
+47 3 0.0
+47 4 0.04396281406263217
+47 5 0.06213218716185134
+48 2 0.0
+48 3 0.0
+48 4 0.04879109828020117
+48 5 0.0
+49 2 0.0
+49 3 0.0
+49 4 0.03846746230480315
+49 5 0.09319828074277701
+50 2 0.0
+50 3 0.0
+50 4 0.07143957285177728
+50 5 0.03106609358092567
+51 2 0.0
+51 3 0.0
+51 4 0.11849266725191715
+51 5 0.0
+52 2 0.0
+52 3 0.0
+52 4 0.06273141207454437
+52 5 0.0
+53 2 0.0
+53 3 0.0
+53 4 0.13243298104626036
+53 5 0.0
+54 2 0.0
+54 3 0.0
+54 4 0.05576125517737277
+54 5 0.0
+55 2 0.0
+55 3 0.0
+55 4 0.03297211054697413
+55 5 0.06213218716185134
+56 2 0.0
+56 3 0.0
+56 4 0.054953517578290215
+56 5 0.03106609358092567
+57 2 0.0
+57 3 0.0
+57 4 0.09342097988309336
+57 5 0.24852874864740537
+58 2 0.0
+58 3 0.026130725825094826
+58 4 0.06228545202491232
+58 5 0.17605476106051898
+59 2 0.0
+59 3 0.0
+59 4 0.2509256482981775
+59 5 0.0
+60 2 0.0
+60 3 0.0
+60 4 0.2230450207094911
+60 5 0.0
+61 2 0.0
+61 3 0.0
+61 4 0.10455235345757395
+61 5 0.0
+62 2 0.0
+62 3 0.0
+62 4 0.03846746230480315
+62 5 0.06213218716185134
+63 2 0.0
+63 3 0.0
+63 4 0.04396281406263217
+63 5 0.03106609358092567
+64 2 0.0
+64 3 0.0
+64 4 0.04879109828020117
+64 5 0.0
+65 2 0.0
+65 3 0.0
+65 4 0.14287914570355456
+65 5 0.03106609358092567
+66 2 0.0
+66 3 0.0
+66 4 0.0
+66 5 0.3152272043481508
+67 2 0.0
+67 3 0.0
+67 4 0.06273141207454437
+67 5 0.0
+68 2 0.0
+68 3 0.0
+68 4 0.04945816582046119
+68 5 0.12426437432370269
+69 2 0.0
+69 3 0.0
+69 4 0.03846746230480315
+69 5 0.06213218716185134
+70 2 0.0
+70 3 0.0
+70 4 0.06273141207454437
+70 5 0.0
+71 2 0.0
+71 3 0.0
+71 4 0.11540238691440945
+71 5 0.18639656148555403
+72 2 0.0
+72 3 0.05226145165018965
+72 4 0.12901986490874695
+72 5 0.15090408090901625
+73 2 0.0
+73 3 0.0
+73 4 0.06273141207454437
+73 5 0.0
+74 2 0.0
+74 3 0.0
+74 4 0.027476758789145107
+74 5 0.18639656148555403
+75 2 0.0
+75 3 0.0
+75 4 0.1533434517377751
+75 5 0.0
+76 2 0.0
+76 3 0.0
+76 4 0.13940313794343195
+76 5 0.0
+77 2 0.0
+77 3 0.0
+77 4 0.09061203966323077
+77 5 0.0
+78 2 0.0
+78 3 0.0
+78 4 0.11152251035474554
+78 5 0.0
+79 2 0.0
+79 3 0.0
+79 4 0.06970156897171598
+79 5 0.0
+80 2 0.0
+80 3 0.0
+80 4 0.11849266725191715
+80 5 0.0
+81 2 0.0
+81 3 0.03227664496267727
+81 4 0.03846746230480315
+81 5 0.0
+82 2 0.0
+82 3 0.0
+82 4 0.29274658968120704
+82 5 0.0
+83 2 0.0
+83 3 0.0
+83 4 0.15936520097704163
+83 5 0.06213218716185134
+84 2 0.0
+84 3 0.0
+84 4 0.08243027636743532
+84 5 0.12426437432370269
+85 2 0.0
+85 3 0.0
+85 4 0.05576125517737277
+85 5 0.0
+86 2 0.0
+86 3 0.9360227039176409
+86 4 0.054953517578290215
+86 5 0.0
+87 2 0.0
+87 3 0.0
+87 4 0.03297211054697413
+87 5 0.06213218716185134
+88 2 0.0
+88 3 0.0
+88 4 0.03846746230480315
+88 5 0.06213218716185134
+89 2 0.0
+89 3 0.0
+89 4 0.03846746230480315
+89 5 0.06213218716185134
+90 2 0.0
+90 3 0.0
+90 4 0.09342097988309336
+90 5 0.03106609358092567
+91 2 0.0
+91 3 0.0
+91 4 0.13940313794343195
+91 5 0.0
+92 2 0.0
+92 3 0.0
+92 4 0.05576125517737277
+92 5 0.0
+93 2 0.0
+93 3 0.0
+93 4 0.010990703515658043
+93 5 0.15533046790462834
+94 2 0.0
+94 3 0.09682993488803182
+94 4 0.03297211054697413
+94 5 0.0
+95 2 0.0
+95 3 0.0
+95 4 0.09061203966323077
+95 5 0.0
+96 2 0.0
+96 3 0.0
+96 4 0.05576125517737277
+96 5 0.0
+97 2 0.0
+97 3 0.0
+97 4 0.03297211054697413
+97 5 0.12426437432370269
+98 2 0.0
+98 3 0.0
+98 4 0.11849266725191715
+98 5 0.0
+99 2 0.0
+99 3 0.0
+99 4 0.05576125517737277
+99 5 0.0
+100 2 0.0
+100 3 0.0
+100 4 0.08364188276605916
+100 5 0.0
+101 2 0.0
+101 3 0.0
+101 4 0.016486055273487066
+101 5 0.15533046790462834
+102 2 0.0
+102 3 0.0
+102 4 0.054953517578290215
+102 5 0.37279312297110806
+103 2 0.0
+103 3 0.32751065179207556
+103 4 0.0
+103 5 0.0
+104 2 0.0
+104 3 0.0
+104 4 0.03297211054697413
+104 5 0.18639656148555403
